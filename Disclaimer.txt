@@ -1,0 +1,1 @@
+Player movement controls using the joystick are not 100% reliable and only compatible with Windows 10
