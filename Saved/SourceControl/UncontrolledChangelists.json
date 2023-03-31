@@ -5,7 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/George/Documents/GitHub/OOW-Team 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/George/Documents/GitHub/OOW-Team 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/Region.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Blaster.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Blaster_2x.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionBottom.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionBottom_2x.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionBottom_Backup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionTop.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionTop_2x.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_CommonRegionTop_Backup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Ice.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Ice_2x.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Plasma.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/UI_Plasma_2x.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/OOWHud.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/MMLevel.umap",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/AreaMarker.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/EmeraldTrailSub1.umap",
+				"C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/UI/AreaInterface.uasset"
 			]
 		}
 	]
