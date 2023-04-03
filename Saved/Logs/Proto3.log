@@ -12447,3 +12447,2287 @@ Script Stack (0 frames) :
 [2023.04.03-12.30.43:577][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
 [2023.04.03-12.30.43:620][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
 [2023.04.03-12.30.43:671][658]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2023.04.03-12.37.07:284][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-12.37.07:292][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-12.37.07:292][636]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 14:37:07)
+[2023.04.03-12.37.07:292][636]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.37.07:550][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.257837s)
+[2023.04.03-12.37.07:550][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.257873s)
+[2023.04.03-12.37.07:550][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.37.07:550][636]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-12.37.07:551][636]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2023.04.03-12.37.07:618][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.03-12.37.07:620][636]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-12.37.07:620][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-12.37.07:620][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-12.37.07:621][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-12.37.07:621][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-12.37.07:621][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-12.37.07:623][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-12.37.07:640][636]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-12.37.07:640][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-12.37.07:640][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-12.37.07:640][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-12.37.07:641][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2023.04.03-12.37.07:641][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2023.04.03-12.37.07:642][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2023.04.03-12.37.07:642][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2023.04.03-12.37.07:642][636]LogInit: FAudioDevice initialized.
+[2023.04.03-12.37.07:642][636]LogAudio: Display: Audio Device (ID: 84) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-12.37.07:645][636]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-12.37.07:733][636]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-13.37.07
+[2023.04.03-12.37.07:740][636]LogWorld: Bringing up level for play took: 0.094987
+[2023.04.03-12.37.07:742][636]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2023.04.03-12.37.07:760][636]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-12.37.07:760][636]PIE: Server logged in
+[2023.04.03-12.37.07:761][636]PIE: Play in editor total start time 0.47 seconds.
+[2023.04.03-12.37.40:431][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.37.40:431][488]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.37.40:434][488]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-12.37.40:446][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.37.40:451][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-12.37.40:465][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.37.40:528][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-12.37.40:534][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.04.03-12.37.40:536][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.04.03-12.37.40:539][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.37.40:578][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.04.03-12.37.40:628][489]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2023.04.03-12.37.41:432][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.37.41:560][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.03-12.37.42:143][580]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.04.03-12.37.42:143][580]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/EmeraldTrailSub15524DCA94FDE328BB678B2A6C64C34B7.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/EmeraldTrailSub1.umap'
+[2023.04.03-12.37.42:168][580]LogFileHelpers: Saving map 'EmeraldTrailSub1' took 0.680
+[2023.04.03-12.37.42:173][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 741 ms (total: 41.9 sec)
+[2023.04.03-12.37.42:202][580]AssetCheck: New page: Asset Save: EmeraldTrailSub1
+[2023.04.03-12.37.42:202][580]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1
+[2023.04.03-12.41.00:378][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.41.00:379][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.42.37:553][765]BlueprintLog: New page: Compile Blaster
+[2023.04.03-12.42.37:656][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.04.03-12.44.29:598][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.44.29:672][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.44.29:682][629]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.44.29:682][629]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Blaster2999B84D40E7319CA1B9DD9CF56A4BC5.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.44.29:693][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 42.0 sec)
+[2023.04.03-12.44.29:705][629]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.44.29:705][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.45.19:768][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.45.19:842][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.45.19:852][101]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.45.19:852][101]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Blaster6F3EC40E448D9F897ED5F4B0CFFC3B75.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.45.19:863][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 42.1 sec)
+[2023.04.03-12.45.19:874][101]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.45.19:874][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.45.21:063][203]BlueprintLog: New page: Compile Blaster
+[2023.04.03-12.45.21:163][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.03-12.45.34:477][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.45.34:541][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.45.34:551][358]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.45.34:552][358]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Blaster887C18CC4ECC885EB68863B2D779938C.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.45.34:562][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 42.1 sec)
+[2023.04.03-12.45.34:581][358]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.45.34:581][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.45.39:178][755]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-12.45.39:184][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-12.45.39:184][755]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 14:45:39)
+[2023.04.03-12.45.39:210][755]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.45.39:466][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.255947s)
+[2023.04.03-12.45.39:466][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.255985s)
+[2023.04.03-12.45.39:466][755]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.45.39:466][755]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-12.45.39:467][755]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2023.04.03-12.45.39:538][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.04.03-12.45.39:540][755]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-12.45.39:540][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-12.45.39:540][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-12.45.39:540][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-12.45.39:540][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-12.45.39:540][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-12.45.39:542][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-12.45.39:560][755]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-12.45.39:560][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-12.45.39:560][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-12.45.39:560][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-12.45.39:560][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2023.04.03-12.45.39:560][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2023.04.03-12.45.39:562][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2023.04.03-12.45.39:562][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2023.04.03-12.45.39:562][755]LogInit: FAudioDevice initialized.
+[2023.04.03-12.45.39:562][755]LogAudio: Display: Audio Device (ID: 85) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-12.45.39:565][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-12.45.39:653][755]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-13.45.39
+[2023.04.03-12.45.39:660][755]LogWorld: Bringing up level for play took: 0.094694
+[2023.04.03-12.45.39:662][755]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2023.04.03-12.45.39:679][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-12.45.39:680][755]PIE: Server logged in
+[2023.04.03-12.45.39:680][755]PIE: Play in editor total start time 0.497 seconds.
+[2023.04.03-12.45.41:173][912]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.41:173][912]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.42:183][ 32]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.42:183][ 32]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.42:792][104]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.42:792][104]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.42:994][128]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.42:994][128]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.43:800][224]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.43:800][224]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.44:609][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.44:609][320]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.44:811][344]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.44:811][344]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.45:218][392]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.45:218][392]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.45:422][416]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.45:422][416]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.45:622][440]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.45:622][440]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.45:822][464]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.45:823][464]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.46:027][488]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.46:027][488]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.46:227][512]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.46:227][512]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.46:431][536]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.46:431][536]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.46:631][560]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.46:632][560]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.47:032][608]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.47:032][608]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.47:238][632]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.47:238][632]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.47:442][656]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.47:442][656]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.47:642][680]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.47:642][680]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.47:841][704]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.47:841][704]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.48:041][728]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.48:041][728]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.48:247][752]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.48:247][752]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.48:448][776]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.48:448][776]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.48:649][800]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.48:649][800]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.48:849][824]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.48:849][824]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.49:049][848]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.49:049][848]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.49:253][872]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.49:253][872]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.49:457][896]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.49:457][896]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.49:657][920]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.49:657][920]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.49:857][944]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.49:857][944]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.50:057][968]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.50:057][968]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.50:263][992]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.50:263][992]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.50:465][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.50:465][ 16]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.50:665][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.50:665][ 40]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.50:865][ 64]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.50:865][ 64]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.51:067][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.51:067][ 88]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.51:271][112]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.51:271][112]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.51:474][136]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.51:474][136]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.51:674][160]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.51:674][160]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.51:875][184]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.51:875][184]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.52:075][208]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.52:075][208]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.52:280][232]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.52:280][232]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.52:481][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.52:481][256]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.52:682][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.52:682][280]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.52:883][304]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.52:883][304]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.53:083][328]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.53:083][328]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.53:290][352]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.53:290][352]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.53:492][376]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.53:492][376]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.53:693][400]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.53:693][400]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.53:895][424]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.53:895][424]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.54:095][448]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.45.54:095][448]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.45.54:351][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.45.54:351][474]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.45.54:354][474]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-12.45.54:366][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.45.54:370][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-12.45.54:385][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.45.54:473][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-12.45.54:473][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.04.03-12.45.54:474][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.04.03-12.45.54:477][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.45.54:506][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.04.03-12.45.54:556][475]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2023.04.03-12.46.06:437][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.46.06:509][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.46.06:519][435]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.46.06:520][435]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/BlasterDE8BA69F4E5E07490543158613CB0B3C.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.46.06:531][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 42.2 sec)
+[2023.04.03-12.46.06:545][435]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.46.06:545][435]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.46.06:932][464]BlueprintLog: New page: Compile Blaster
+[2023.04.03-12.46.07:035][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.04.03-12.46.07:723][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.46.07:796][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.46.07:806][516]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.46.07:806][516]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Blaster9E55DA2242C0E6E674F17B80EE72E3BA.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.46.07:817][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 42.3 sec)
+[2023.04.03-12.46.07:828][516]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.46.07:828][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.46.08:976][624]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-12.46.08:982][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-12.46.08:982][624]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 14:46:08)
+[2023.04.03-12.46.09:010][624]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.46.09:268][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256983s)
+[2023.04.03-12.46.09:268][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.257019s)
+[2023.04.03-12.46.09:268][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.46.09:268][624]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-12.46.09:269][624]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2023.04.03-12.46.09:340][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.03-12.46.09:343][624]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-12.46.09:343][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-12.46.09:343][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-12.46.09:343][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-12.46.09:343][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-12.46.09:343][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-12.46.09:345][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-12.46.09:362][624]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-12.46.09:362][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-12.46.09:362][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-12.46.09:362][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-12.46.09:363][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2023.04.03-12.46.09:363][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2023.04.03-12.46.09:364][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2023.04.03-12.46.09:364][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2023.04.03-12.46.09:364][624]LogInit: FAudioDevice initialized.
+[2023.04.03-12.46.09:364][624]LogAudio: Display: Audio Device (ID: 86) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-12.46.09:367][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-12.46.09:457][624]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-13.46.09
+[2023.04.03-12.46.09:463][624]LogWorld: Bringing up level for play took: 0.095388
+[2023.04.03-12.46.09:465][624]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2023.04.03-12.46.09:482][624]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-12.46.09:482][624]PIE: Server logged in
+[2023.04.03-12.46.09:483][624]PIE: Play in editor total start time 0.5 seconds.
+[2023.04.03-12.46.26:091][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.46.26:091][576]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.46.26:094][576]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-12.46.26:106][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.46.26:111][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-12.46.26:125][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.46.26:211][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-12.46.26:211][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.04.03-12.46.26:212][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.04.03-12.46.26:215][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.46.26:243][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.03-12.46.26:298][577]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2023.04.03-12.47.17:858][696]BlueprintLog: New page: Compile Blaster
+[2023.04.03-12.47.17:958][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.04.03-12.47.19:502][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-12.47.19:509][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-12.47.19:509][824]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 14:47:19)
+[2023.04.03-12.47.19:540][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.47.19:799][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259659s)
+[2023.04.03-12.47.19:799][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.259696s)
+[2023.04.03-12.47.19:800][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.47.19:800][824]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-12.47.19:801][824]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.04.03-12.47.19:873][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.04.03-12.47.19:876][824]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-12.47.19:876][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-12.47.19:876][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-12.47.19:876][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-12.47.19:876][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-12.47.19:876][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-12.47.19:878][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-12.47.19:895][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-12.47.19:895][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-12.47.19:895][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-12.47.19:896][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-12.47.19:896][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2023.04.03-12.47.19:896][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2023.04.03-12.47.19:897][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2023.04.03-12.47.19:897][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2023.04.03-12.47.19:897][824]LogInit: FAudioDevice initialized.
+[2023.04.03-12.47.19:897][824]LogAudio: Display: Audio Device (ID: 87) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-12.47.19:901][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-12.47.19:991][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-13.47.19
+[2023.04.03-12.47.19:997][824]LogWorld: Bringing up level for play took: 0.096274
+[2023.04.03-12.47.19:999][824]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2023.04.03-12.47.20:017][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-12.47.20:017][824]PIE: Server logged in
+[2023.04.03-12.47.20:017][824]PIE: Play in editor total start time 0.508 seconds.
+[2023.04.03-12.47.21:403][969]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.21:403][969]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.21:604][993]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.21:604][993]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.21:803][ 17]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.21:804][ 17]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.24:464][335]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.24:464][335]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.24:556][346]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.24:556][346]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.24:673][360]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.24:673][360]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.24:766][371]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.24:766][371]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.24:986][397]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.24:986][397]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.25:217][424]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.25:217][424]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.25:428][449]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.25:428][449]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.25:620][472]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.25:620][472]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.26:234][545]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.26:234][545]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.27:004][636]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.27:004][636]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.27:222][662]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.27:222][662]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.27:434][687]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.27:434][687]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.27:641][712]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.27:641][712]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.27:841][736]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.27:841][736]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.28:017][756]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.28:018][756]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.28:662][833]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.28:662][833]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.28:862][857]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.28:862][857]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.29:068][873]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.29:068][873]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.30:512][ 45]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.30:513][ 45]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.30:613][ 57]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.30:613][ 57]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.30:806][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.30:806][ 80]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.31:000][103]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.31:000][103]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.32:092][233]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.32:092][233]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.32:292][257]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.32:292][257]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.32:417][272]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.32:417][272]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.32:492][281]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.32:492][281]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.34:303][497]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.34:303][497]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.34:505][521]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.34:506][521]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.34:709][545]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.34:709][545]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.34:908][568]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.34:908][568]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.35:113][592]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.35:113][592]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.35:315][616]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.35:315][616]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.35:918][688]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.35:918][688]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.36:119][712]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.36:119][712]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.37:265][848]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.37:265][848]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.37:315][854]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.37:315][854]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.37:475][873]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.37:475][873]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.37:692][899]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.37:692][899]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.38:119][949]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.38:119][949]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.38:135][951]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.38:135][951]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.38:285][969]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.38:285][969]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.38:421][985]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.38:421][985]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.38:944][ 46]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.38:944][ 46]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:146][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:147][ 69]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:264][ 83]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:264][ 83]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:346][ 93]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:346][ 93]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:430][103]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:430][103]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:598][123]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:598][123]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.39:764][143]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.39:764][143]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.40:440][223]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.40:440][223]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.42:566][477]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.42:566][477]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.42:768][501]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.42:768][501]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.42:972][525]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.42:972][525]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.43:152][546]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.43:152][546]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.43:310][565]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.43:310][565]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.43:410][577]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.43:411][577]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.43:630][603]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.43:630][603]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.43:855][630]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.43:855][630]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.44:040][652]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.44:041][652]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.44:246][676]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.44:246][676]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.44:446][700]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.44:446][700]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.45:459][820]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.45:459][820]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.45:643][842]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.45:643][842]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.45:834][865]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.45:834][865]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.46:404][931]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.46:404][931]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.46:440][935]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.46:440][935]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.46:615][956]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.46:615][956]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.46:899][989]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.46:899][989]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.46:987][999]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.46:987][999]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.47:206][ 25]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.47:206][ 25]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.47:428][ 51]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.47:428][ 51]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.47:670][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.47:670][ 80]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.47:870][104]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.47:870][104]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.48:064][127]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.48:064][127]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.48:518][180]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.48:518][180]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.48:717][204]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.48:717][204]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.49:269][270]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.49:269][270]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.49:500][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.49:500][297]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.49:716][323]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.49:716][323]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.50:657][435]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.50:657][435]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.50:857][459]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.50:857][459]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.52:957][710]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.52:957][710]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.53:649][793]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.53:649][793]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.54:622][909]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.54:622][909]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.55:461][  9]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.55:461][  9]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.55:882][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.55:882][ 59]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.57:478][249]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.57:478][249]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.57:897][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.57:897][299]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.47.58:824][409]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.47.58:824][409]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.00:915][659]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.00:915][659]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.01:517][731]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.01:517][731]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.01:717][755]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.01:717][755]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.03:689][991]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.03:689][991]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.04:533][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.04:533][ 92]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.04:729][115]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.04:729][115]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.04:746][117]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.04:746][117]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.04:954][142]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.04:954][142]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.05:156][166]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.05:156][166]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.05:347][189]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.05:347][189]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.05:557][214]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.05:557][214]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.06:139][283]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.06:139][283]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.06:339][307]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.06:339][307]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.07:465][441]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.07:465][441]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.09:650][699]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.09:650][699]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:171][761]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:171][761]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:371][785]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:371][785]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:575][809]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:575][809]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:776][833]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:776][833]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:801][836]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:801][836]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:975][857]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:975][857]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.10:993][859]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.10:993][859]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.11:203][884]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.11:203][884]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.11:420][910]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.11:420][910]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.11:658][938]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.11:658][938]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.12:185][  1]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.12:185][  1]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.12:385][ 25]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.12:385][ 25]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.12:585][ 49]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.12:585][ 49]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.18:508][759]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.18:508][759]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.18:725][785]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.18:725][785]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.18:966][814]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.18:966][814]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.19:170][838]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.19:170][838]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.19:382][863]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.19:382][863]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.19:564][885]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.19:564][885]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.19:756][908]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.19:756][908]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.19:965][933]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.19:965][933]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.20:185][959]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.20:185][959]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.20:472][993]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.20:472][993]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.20:656][ 15]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.20:656][ 15]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.20:830][ 36]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.20:831][ 36]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:166][ 76]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:166][ 76]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:372][100]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:372][100]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:413][105]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:413][105]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:587][126]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:588][126]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:763][147]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:763][147]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.21:938][168]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.21:939][168]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.22:133][191]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.22:133][191]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.22:821][273]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.22:821][273]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.22:888][281]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.22:888][281]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.23:629][369]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.23:629][369]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.23:830][393]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.23:830][393]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.24:030][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.24:030][417]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.24:232][441]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.24:232][441]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.24:513][474]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.24:513][474]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.24:688][495]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.24:688][495]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.24:907][521]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.24:907][521]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.25:645][609]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.25:645][609]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.25:845][633]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.25:845][633]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.26:046][657]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.26:046][657]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.28:852][993]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.28:852][993]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:027][ 14]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:027][ 14]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:052][ 17]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:052][ 17]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:238][ 39]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:238][ 39]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:485][ 68]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:485][ 68]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:710][ 95]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:710][ 95]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.29:910][119]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.29:910][119]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:148][139]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:148][139]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:466][176]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:466][176]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:633][196]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:633][196]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:666][200]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:666][200]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:832][220]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:832][220]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.30:874][225]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.30:875][225]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.31:041][245]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.31:041][245]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.31:251][270]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.31:251][270]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.31:456][294]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.31:456][294]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.31:672][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.31:672][320]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:283][393]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:283][393]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:383][405]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:383][405]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:487][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:487][417]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:537][423]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:537][423]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:754][449]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:754][449]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.32:979][476]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.32:979][476]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.33:213][504]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.33:213][504]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.33:426][529]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.33:426][529]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.33:893][585]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.33:893][585]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.34:093][609]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.34:093][609]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.34:294][633]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.34:294][633]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.34:495][657]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.34:495][657]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.38:305][113]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.38:305][113]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.38:505][137]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.38:505][137]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.42:796][651]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.42:796][651]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.43:013][677]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.43:013][677]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.43:248][705]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.43:248][705]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.43:449][729]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.43:449][729]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.43:921][785]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.43:921][785]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.44:121][809]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.44:121][809]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.44:325][833]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.44:325][833]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.45:237][942]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.45:237][942]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.45:497][973]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.45:497][973]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.53:229][900]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.53:229][900]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.53:740][961]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.53:740][961]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.54:278][ 25]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.54:278][ 25]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.54:345][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.54:345][ 33]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.54:528][ 55]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.54:528][ 55]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.54:770][ 84]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.54:770][ 84]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.54:988][110]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.54:988][110]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.55:187][134]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.55:187][134]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.55:752][201]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.55:752][201]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.55:793][206]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.55:793][206]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.55:952][225]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.55:952][225]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.56:353][273]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.56:353][273]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.56:552][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.56:552][297]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.48.57:215][376]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.48.57:215][376]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.00:313][747]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.00:313][747]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.00:555][776]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.00:555][776]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.00:797][805]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.00:797][805]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.01:017][831]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.01:017][831]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.01:217][855]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.01:217][855]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.01:426][879]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.01:426][879]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.01:967][944]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.01:967][944]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.02:167][968]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.02:167][968]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.02:341][988]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.02:341][988]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.02:541][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.02:541][ 12]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.02:732][ 35]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.02:732][ 35]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.03:375][112]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.03:375][112]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.03:980][184]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.03:980][184]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.04:180][208]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.04:180][208]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.04:554][252]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.04:554][252]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.04:820][284]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.04:820][284]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.05:070][314]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.05:070][314]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.05:347][347]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.05:347][347]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.05:364][349]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.05:364][349]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.05:819][403]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.05:819][403]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.06:069][433]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.06:069][433]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.07:369][588]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.07:369][588]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.07:578][613]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.07:578][613]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.07:795][639]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.07:795][639]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.08:033][667]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.08:033][667]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.08:267][695]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.08:267][695]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.08:817][761]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.08:818][761]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.11:417][ 72]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.11:417][ 72]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.11:617][ 96]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.11:617][ 96]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.13:306][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.13:306][297]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.14:646][457]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.14:646][457]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.16:845][720]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.16:845][720]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.16:970][735]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.16:970][735]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.19:418][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.19:418][ 28]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.21:249][247]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.21:249][247]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.22:079][346]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.22:079][346]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.32:145][545]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.32:145][545]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.32:270][560]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.32:270][560]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.32:703][612]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.32:703][612]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.32:932][639]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.32:932][639]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.33:157][666]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.33:157][666]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.33:349][689]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.33:350][689]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.33:526][710]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.33:526][710]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.33:709][732]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.33:709][732]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.33:905][755]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.33:905][755]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.34:122][781]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.34:122][781]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.34:348][808]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.34:348][808]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.34:548][832]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.34:548][832]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.34:749][856]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.34:749][856]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.34:936][878]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.34:936][878]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.35:488][944]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.35:488][944]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.35:688][968]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.35:688][968]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.36:292][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.36:292][ 40]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.36:492][ 64]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.36:492][ 64]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.36:693][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.36:693][ 88]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.37:899][232]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.37:899][232]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:099][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:099][256]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:182][266]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:182][266]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:298][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:298][280]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:408][293]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:408][293]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:636][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:636][320]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:819][342]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:820][342]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.38:986][362]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.38:986][362]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.39:169][384]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.39:169][384]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.39:386][410]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.39:386][410]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.39:624][438]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.39:624][438]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.39:874][468]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.39:874][468]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.40:074][492]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.40:074][492]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.40:265][515]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.40:265][515]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.40:428][534]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.40:428][534]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.40:578][552]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.40:578][552]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.41:111][616]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.41:111][616]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.41:311][640]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.41:311][640]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.52:799][ 17]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.52:799][ 17]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.53:017][ 43]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.53:017][ 43]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.53:466][ 97]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.53:466][ 97]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.53:526][104]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.53:526][104]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.53:688][123]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.53:688][123]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.53:879][146]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.53:879][146]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.54:040][165]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.54:040][165]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.54:206][185]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.54:206][185]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.54:330][200]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.54:330][200]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.54:573][229]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.54:573][229]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.54:793][255]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.54:794][255]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.55:002][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.55:002][280]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.55:203][304]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.55:203][304]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.55:402][328]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.55:402][328]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.55:595][351]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.55:595][351]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.56:000][399]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.56:000][399]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.56:175][420]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.56:175][420]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.56:191][422]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.56:191][422]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.57:147][536]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.57:147][536]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.57:348][560]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2023.04.03-12.49.57:348][560]LogScript: Warning: Last function called:
+	/Game/TwinStickBP/Blueprints/Blaster.Blaster_C.ExecuteUbergraph_Blaster
+
+[2023.04.03-12.49.57:450][572]LogNet: Browse: /Game/ThirdPersonBP/Maps/GameOver
+[2023.04.03-12.49.57:450][572]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/GameOver
+[2023.04.03-12.49.57:450][572]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-12.49.57:453][572]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-12.49.57:464][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.49.57:595][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-12.49.57:624][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.04.03-12.49.57:665][572]LogAudio: Display: Audio Device (ID: 87) registered with world 'GameOver'.
+[2023.04.03-12.49.57:665][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-12.49.57:665][572]LogAIModule: Creating AISystem for world GameOver
+[2023.04.03-12.49.57:665][572]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2023.04.03-12.49.57:665][572]LogLoad: Game class is 'GameOverGameMode_C'
+[2023.04.03-12.49.57:667][572]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2023.04.03-13.49.57
+[2023.04.03-12.49.57:667][572]LogWorld: Bringing up level for play took: 0.001781
+[2023.04.03-12.49.57:671][572]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Quit)
+[2023.04.03-12.49.57:671][572]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.03-12.49.57:671][572]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.04.03-12.49.57:673][572]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Retry)
+[2023.04.03-12.49.57:674][572]LogLoad: Took 0.224261 seconds to LoadMap(/Game/ThirdPersonBP/Maps/GameOver)
+[2023.04.03-12.49.58:641][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.49.58:641][681]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver
+[2023.04.03-12.49.58:641][681]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-12.49.58:641][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.49.58:643][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-12.49.58:655][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-12.49.58:723][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-12.49.58:723][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.04.03-12.49.58:725][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.04.03-12.49.58:733][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.04.03-12.49.58:775][682]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2023.04.03-12.50.09:399][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-12.50.09:471][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Blaster" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset" SILENT=true
+[2023.04.03-12.50.09:480][551]LogSavePackage: Moving output files for package: /Game/TwinStickBP/Blueprints/Blaster
+[2023.04.03-12.50.09:481][551]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/BlasterD5C2CA83491602F2B5411598380F9906.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/TwinStickBP/Blueprints/Blaster.uasset'
+[2023.04.03-12.50.09:491][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 42.4 sec)
+[2023.04.03-12.50.09:506][551]AssetCheck: New page: Asset Save: Blaster
+[2023.04.03-12.50.09:506][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TwinStickBP/Blueprints/Blaster.Blaster
+[2023.04.03-12.50.10:155][606]BlueprintLog: New page: Compile Blaster
+[2023.04.03-12.50.10:253][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.04.03-12.50.53:022][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.04.03-12.50.53:027][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.077
+[2023.04.03-12.50.53:027][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/UI/OOWHud] ([2] browsable assets)...
+[2023.04.03-12.50.53:027][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/UI/OOWHud]
+[2023.04.03-12.50.53:062][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/UI/OOWHud_Auto5
+[2023.04.03-12.50.53:063][843]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/OOWHud_Auto55BED2C144C8AEB9D2FF17381C4C1A079.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/UI/OOWHud_Auto5.uasset'
+[2023.04.03-12.50.53:064][843]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.04.03-13.00.53:464][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.03-13.00.53:467][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.074
+[2023.04.03-13.02.45:573][981]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.112 and deleted 0 files with total size 0 MiB. Scanned 5477 files in 5416 folders with total size 162 MiB.
+[2023.04.03-13.10.53:846][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.03-13.10.53:848][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.072
+[2023.04.03-13.20.54:599][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.03-13.20.54:602][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.073
+[2023.04.03-13.30.54:967][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.03-13.30.54:970][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.076
+[2023.04.03-13.41.38:503][374]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Blueprints/ForestFloor_Inst.ForestFloor_Inst
+[2023.04.03-13.41.38:551][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.41.39:267][374]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.04.03-13.41.39:385][374]LogSlate: Took 0.001849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.03-13.41.40:902][459]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Total job queries 321, among them cache hits 104 (32.40%)
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 110 distinct outputs (52.13%)
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 1.93 s
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Job life time (pending + execution): average 1.91 s, max 1.96
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.96 s
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.03-13.41.40:903][459]LogShaderCompilers: Display: Average processing rate: 1.02 jobs/sec
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Total thread time: 0.81 s
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Total thread preprocess time: 0.11 s
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Percentage time preprocessing: 13.30%
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.38 sec)
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.38 sec)
+[2023.04.03-13.41.40:904][459]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.41.48:754][ 82]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+[2023.04.03-13.41.50:092][ 82]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.04.03-13.41.52:867][299]LogEditorFactories: Performing atomic reimport of [C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/forestFloorpixels.png]
+[2023.04.03-13.41.52:867][299]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/forestFloorpixels.png)
+[2023.04.03-13.41.52:877][299]LogTexture: Display: Building textures: /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 1.97916 MB), EncodeSpeed: Fast
+[2023.04.03-13.41.52:893][299]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.41.52:923][299]LogTexture: Display: Building textures: /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 1.97916 MB), EncodeSpeed: Fast
+[2023.04.03-13.41.52:924][299]LogEditorFactories: -- imported successfully
+[2023.04.03-13.41.57:645][578]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/ForestFloor.ForestFloor
+[2023.04.03-13.41.57:656][578]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.41.57:660][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.41.57:786][578]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.41.57:844][578]MaterialEditorStats: Error: [SM5] Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+[2023.04.03-13.41.57:856][578]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.04.03-13.42.31:166][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.04.03-13.42.31:169][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.352
+[2023.04.03-13.42.31:171][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/forestFloorpixels] ([1] browsable assets)...
+[2023.04.03-13.42.31:173][206]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels]
+[2023.04.03-13.42.31:173][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/forestFloorpixels]
+[2023.04.03-13.42.31:176][206]LogTexture: Display: Building textures: /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.04.03-13.42.31:193][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/forestFloorpixels_Auto6
+[2023.04.03-13.42.31:193][206]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/forestFloorpixels_Auto66CA73CB041BDFFDFA7CF85B2152C25D2.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/forestFloorpixels_Auto6.uasset'
+[2023.04.03-13.42.31:194][206]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.04.03-13.47.21:367][586]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.47.21:374][586]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.47.21:710][608]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.47.23:779][734]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.47.27:291][985]LogMaterialEditor: Saving and Compiling material ForestFloor
+[2023.04.03-13.47.30:783][985]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: Total job queries 337, among them cache hits 110 (32.64%)
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: Tracking 224 distinct input hashes that result in 115 distinct outputs (51.34%)
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: RAM used: 0.52 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.03-13.47.43:674][838]LogShaderCompilers: Display: Shaders Compiled: 15
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Jobs assigned 18, completed 15 (83.33%)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Average time worker was idle: 147.97 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.09 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 2.33 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Job life time (pending + execution): average 1.54 s, max 2.42
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.81 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Average processing rate: 3.93 jobs/sec
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Total thread time: 10.09 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Total thread preprocess time: 0.88 s
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Percentage time preprocessing: 8.77%
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Effective parallelization: 2.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.78 sec, max 0.83 sec, min 0.73 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.37 sec, max 0.42 sec, min 0.29 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.43% of total time (compiled    5 times, average 0.78 sec, max 0.83 sec, min 0.73 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.02% of total time (compiled    5 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.04.03-13.47.43:675][838]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.67% of total time (compiled    2 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2023.04.03-13.47.43:676][838]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.87% of total time (compiled    3 times, average 0.37 sec, max 0.42 sec, min 0.29 sec)
+[2023.04.03-13.47.43:676][838]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.48.10:025][652]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.10:047][652]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.13:545][850]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.13:553][850]MaterialEditorStats: Error: [SM5] Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+[2023.04.03-13.48.13:553][850]MaterialEditorStats: Error: [SM5] Function sRGBToLinear: (Node If) If input A must be of type float.
+[2023.04.03-13.48.16:247][ 36]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.18:741][198]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.20:870][337]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.22:382][431]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.24:960][595]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.27:285][744]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.28:145][804]LogMaterialEditor: Saving and Compiling material ForestFloor
+[2023.04.03-13.48.29:539][804]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.03-13.48.30:262][804]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.30:326][804]LogMaterial: Warning: [AssetLog] C:\Users\George\Documents\GitHub\OOW-Team\Content\ThirdPersonBP\Blueprints\ForestFloor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.30:647][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.03-13.48.30:785][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.03-13.48.30:798][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-13.48.30:867][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ForestFloor" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset" SILENT=true
+[2023.04.03-13.48.30:872][804]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/ForestFloor
+[2023.04.03-13.48.30:873][804]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ForestFloor4FCB9B9746E37B0F4BB262B9FA47A7B6.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset'
+[2023.04.03-13.48.30:883][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 42.5 sec)
+[2023.04.03-13.48.30:908][804]AssetCheck: New page: Asset Save: ForestFloor
+[2023.04.03-13.48.30:908][804]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPersonBP/Blueprints/ForestFloor.ForestFloor
+[2023.04.03-13.48.34:142][ 10]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.35:340][ 70]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.35:911][104]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.37:177][174]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+	Function sRGBToLinear: (Node If) If input A must be of type float.
+
+[2023.04.03-13.48.37:784][214]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.37:789][214]MaterialEditorStats: Error: [SM5] Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+[2023.04.03-13.48.38:801][268]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.39:353][307]LogMaterialEditor: Saving and Compiling material ForestFloor
+[2023.04.03-13.48.40:528][307]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.03-13.48.40:885][307]LogMaterial: Warning: [AssetLog] /Engine/Transient.ForestFloor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.40:946][307]LogMaterial: Warning: [AssetLog] C:\Users\George\Documents\GitHub\OOW-Team\Content\ThirdPersonBP\Blueprints\ForestFloor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function WorldAlignedTexture: (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+
+[2023.04.03-13.48.41:192][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.03-13.48.41:322][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.03-13.48.41:334][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-13.48.41:407][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ForestFloor" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset" SILENT=true
+[2023.04.03-13.48.41:410][307]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/ForestFloor
+[2023.04.03-13.48.41:411][307]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ForestFloor9A9DB23741B902DD12188DBC8F3370FB.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset'
+[2023.04.03-13.48.41:420][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 42.6 sec)
+[2023.04.03-13.48.41:436][307]AssetCheck: New page: Asset Save: ForestFloor
+[2023.04.03-13.48.41:436][307]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPersonBP/Blueprints/ForestFloor.ForestFloor
+[2023.04.03-13.49.11:869][989]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-13.49.11:869][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.11:869][989]MaterialEditorStats: Shader Count: 0
+[2023.04.03-13.49.12:556][ 22]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.03-13.49.12:556][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.12:556][ 22]MaterialEditorStats: Shader Count: 1
+[2023.04.03-13.49.12:857][ 40]MaterialEditorStats: Base pass vertex shader: 251 instructions
+[2023.04.03-13.49.12:857][ 40]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.03-13.49.12:857][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.12:857][ 40]MaterialEditorStats: Shader Count: 3
+[2023.04.03-13.49.12:963][ 47]MaterialEditorStats: Base pass shader: 178 instructions
+[2023.04.03-13.49.12:963][ 47]MaterialEditorStats: Base pass vertex shader: 251 instructions
+[2023.04.03-13.49.12:963][ 47]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.03-13.49.12:963][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.12:963][ 47]MaterialEditorStats: Shader Count: 4
+[2023.04.03-13.49.21:187][593]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-13.49.21:187][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.21:187][593]MaterialEditorStats: Shader Count: 0
+[2023.04.03-13.49.21:287][595]MaterialEditorStats: Base pass shader: 178 instructions
+[2023.04.03-13.49.21:287][595]MaterialEditorStats: Base pass vertex shader: 251 instructions
+[2023.04.03-13.49.21:287][595]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.03-13.49.21:287][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.21:287][595]MaterialEditorStats: Shader Count: 4
+[2023.04.03-13.49.26:606][941]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-13.49.26:606][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.26:606][941]MaterialEditorStats: Shader Count: 0
+[2023.04.03-13.49.26:638][943]MaterialEditorStats: Base pass shader: 178 instructions
+[2023.04.03-13.49.26:638][943]MaterialEditorStats: Base pass vertex shader: 251 instructions
+[2023.04.03-13.49.26:638][943]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.03-13.49.26:638][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.26:638][943]MaterialEditorStats: Shader Count: 4
+[2023.04.03-13.49.28:371][ 57]LogMaterialEditor: Saving and Compiling material ForestFloor
+[2023.04.03-13.49.29:031][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.04.03-13.49.30:116][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.03-13.49.30:128][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-13.49.31:686][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ForestFloor" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset" SILENT=true
+[2023.04.03-13.49.31:690][ 57]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/ForestFloor
+[2023.04.03-13.49.31:690][ 57]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ForestFloor852CC58C456F86C42DDB63BCD0A6FD51.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/ForestFloor.uasset'
+[2023.04.03-13.49.31:703][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.57 sec (total: 44.2 sec)
+[2023.04.03-13.49.31:719][ 57]AssetCheck: New page: Asset Save: ForestFloor
+[2023.04.03-13.49.31:719][ 57]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPersonBP/Blueprints/ForestFloor.ForestFloor
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: Base pass shader: 178 instructions
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: Base pass vertex shader: 251 instructions
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: MaxSampler: 227 instructions
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
+[2023.04.03-13.49.31:721][ 57]MaterialEditorStats: Shader Count: 16
+[2023.04.03-13.51.10:436][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-13.51.10:517][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/forestFloorpixels" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/forestFloorpixels.uasset" SILENT=true
+[2023.04.03-13.51.10:529][710]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/forestFloorpixels
+[2023.04.03-13.51.10:529][710]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/forestFloorpixels1CB2B0C64617915FCBA4F3A3FFC1B9BC.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/forestFloorpixels.uasset'
+[2023.04.03-13.51.10:541][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 44.3 sec)
+[2023.04.03-13.51.10:557][710]AssetCheck: New page: Asset Save: forestFloorpixels
+[2023.04.03-13.51.10:557][710]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels
+[2023.04.03-13.51.12:344][848]LogViewport: Scene viewport resized to 1424x886, mode Windowed.
+[2023.04.03-13.51.17:964][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-13.51.18:099][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.03-13.51.18:693][426]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.04.03-13.51.18:693][426]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/EmeraldTrailSub13CF2A48949C4F2E0AE63A7B662647D9B.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/EmeraldTrailSub1.umap'
+[2023.04.03-13.51.18:763][426]LogFileHelpers: Saving map 'EmeraldTrailSub1' took 0.746
+[2023.04.03-13.51.18:771][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 807 ms (total: 45.1 sec)
+[2023.04.03-13.51.18:800][426]AssetCheck: New page: Asset Save: EmeraldTrailSub1
+[2023.04.03-13.51.18:800][426]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1
+[2023.04.03-13.51.19:173][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-13.51.19:183][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-13.51.19:183][467]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 15:51:19)
+[2023.04.03-13.51.19:221][467]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-13.51.19:487][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266204s)
+[2023.04.03-13.51.19:487][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.266245s)
+[2023.04.03-13.51.19:490][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.51.19:492][467]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-13.51.19:499][467]LogPlayLevel: PIE: World Init took: (0.012462s)
+[2023.04.03-13.51.19:578][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.04.03-13.51.19:582][467]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.04.03-13.51.19:582][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-13.51.19:583][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-13.51.19:583][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-13.51.19:584][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-13.51.19:584][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-13.51.19:584][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-13.51.19:589][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-13.51.19:609][467]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-13.51.19:609][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-13.51.19:609][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-13.51.19:609][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-13.51.19:611][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.04.03-13.51.19:611][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.04.03-13.51.19:613][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.04.03-13.51.19:613][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.04.03-13.51.19:613][467]LogInit: FAudioDevice initialized.
+[2023.04.03-13.51.19:613][467]LogAudio: Display: Audio Device (ID: 88) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-13.51.19:622][467]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-13.51.19:715][467]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-14.51.19
+[2023.04.03-13.51.19:728][467]LogWorld: Bringing up level for play took: 0.105170
+[2023.04.03-13.51.19:742][467]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2023.04.03-13.51.19:781][467]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-13.51.19:782][467]PIE: Server logged in
+[2023.04.03-13.51.19:783][467]PIE: Play in editor total start time 0.604 seconds.
+[2023.04.03-13.51.21:982][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-13.51.21:982][705]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-13.51.21:988][705]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-13.51.22:003][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.51.22:015][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-13.51.22:032][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.51.22:110][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-13.51.22:116][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.04.03-13.51.22:118][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.04.03-13.51.22:200][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.04.03-13.51.22:254][706]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2023.04.03-13.51.53:828][306]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.04.03-13.52.47:164][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-13.52.47:171][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-13.52.47:171][109]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 15:52:47)
+[2023.04.03-13.52.47:173][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-13.52.47:425][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252598s)
+[2023.04.03-13.52.47:425][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.252633s)
+[2023.04.03-13.52.47:425][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.52.47:426][109]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-13.52.47:427][109]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2023.04.03-13.52.47:506][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.04.03-13.52.47:510][109]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-13.52.47:510][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-13.52.47:510][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-13.52.47:510][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-13.52.47:510][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-13.52.47:510][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-13.52.47:512][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-13.52.47:531][109]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-13.52.47:531][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-13.52.47:532][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-13.52.47:532][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-13.52.47:532][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.04.03-13.52.47:532][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.04.03-13.52.47:533][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.04.03-13.52.47:533][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.04.03-13.52.47:533][109]LogInit: FAudioDevice initialized.
+[2023.04.03-13.52.47:533][109]LogAudio: Display: Audio Device (ID: 89) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-13.52.47:537][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-13.52.47:626][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-14.52.47
+[2023.04.03-13.52.47:632][109]LogWorld: Bringing up level for play took: 0.095110
+[2023.04.03-13.52.47:634][109]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2023.04.03-13.52.47:653][109]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-13.52.47:653][109]PIE: Server logged in
+[2023.04.03-13.52.47:654][109]PIE: Play in editor total start time 0.483 seconds.
+[2023.04.03-13.52.56:129][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-13.52.56:129][ 83]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-13.52.56:132][ 83]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-13.52.56:144][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.52.56:149][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-13.52.56:165][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.52.56:239][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-13.52.56:254][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.04.03-13.52.56:256][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.04.03-13.52.56:291][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.03-13.52.56:345][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2023.04.03-14.01.29:994][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.04.03-14.01.29:999][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/EmeraldTrailSub1' took 0.084
+[2023.04.03-14.01.30:000][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/forestFloorpixels] ([1] browsable assets)...
+[2023.04.03-14.01.30:002][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/forestFloorpixels.forestFloorpixels]
+[2023.04.03-14.01.30:002][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/forestFloorpixels]
+[2023.04.03-14.01.30:004][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/forestFloorpixels_Auto7
+[2023.04.03-14.01.30:004][698]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/forestFloorpixels_Auto7A3626AFD4B9A357E0A9959BD9D3E571A.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/forestFloorpixels_Auto7.uasset'
+[2023.04.03-14.01.30:005][698]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.04.03-14.02.45:596][926]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.134 and deleted 0 files with total size 0 MiB. Scanned 5527 files in 5466 folders with total size 162 MiB.
+[2023.04.03-14.10.24:981][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.10.24:982][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.10.24:995][319]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_37
+[2023.04.03-14.10.24:997][319]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_37
+[2023.04.03-14.10.26:116][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.10.26:116][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.10.26:123][373]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_38
+[2023.04.03-14.10.26:124][373]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_38
+[2023.04.03-14.11.07:972][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.07:972][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.07:975][936]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_39
+[2023.04.03-14.11.07:976][936]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_39
+[2023.04.03-14.11.08:682][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.08:682][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.08:686][964]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_40
+[2023.04.03-14.11.08:688][964]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_40
+[2023.04.03-14.11.23:511][490]Cmd: TRANSACTION UNDO
+[2023.04.03-14.11.23:511][490]LogEditorTransaction: Undo Scale Elements
+[2023.04.03-14.11.48:583][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.48:583][107]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.48:584][107]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_41
+[2023.04.03-14.11.48:586][107]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_41
+[2023.04.03-14.11.49:259][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.49:259][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker_C
+[2023.04.03-14.11.49:264][137]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_42
+[2023.04.03-14.11.49:265][137]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPersonBP/Blueprints/UI/AreaMarker.AreaMarker as actor: AreaMarker_C /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1:PersistentLevel.AreaMarker_C_42
+[2023.04.03-14.12.08:369][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-14.12.08:514][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.04.03-14.12.09:100][234]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.04.03-14.12.09:101][234]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/EmeraldTrailSub1B5041D544459F3DA353D54B7DC602491.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/EmeraldTrailSub1.umap'
+[2023.04.03-14.12.09:125][234]LogFileHelpers: Saving map 'EmeraldTrailSub1' took 0.701
+[2023.04.03-14.12.09:130][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 761 ms (total: 45.8 sec)
+[2023.04.03-14.12.09:158][234]AssetCheck: New page: Asset Save: EmeraldTrailSub1
+[2023.04.03-14.12.09:158][234]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1
+[2023.04.03-14.12.17:133][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.03-14.12.17:313][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.04.03-14.12.17:888][268]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.04.03-14.12.17:888][268]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/EmeraldTrailSub1FC2C53AD41BD32BE411C2BA79BB1DAA1.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/EmeraldTrailSub1.umap'
+[2023.04.03-14.12.17:912][268]LogFileHelpers: Saving map 'EmeraldTrailSub1' took 0.679
+[2023.04.03-14.12.17:919][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 786 ms (total: 46.6 sec)
+[2023.04.03-14.12.17:946][268]AssetCheck: New page: Asset Save: EmeraldTrailSub1
+[2023.04.03-14.12.17:946][268]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1
+[2023.04.03-14.12.18:134][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-14.12.18:142][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-14.12.18:142][285]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 16:12:18)
+[2023.04.03-14.12.18:145][285]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.12.18:396][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.249969s)
+[2023.04.03-14.12.18:396][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.250006s)
+[2023.04.03-14.12.18:396][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-14.12.18:396][285]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-14.12.18:397][285]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2023.04.03-14.12.18:475][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.04.03-14.12.18:477][285]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-14.12.18:477][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-14.12.18:477][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-14.12.18:477][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-14.12.18:477][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-14.12.18:477][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-14.12.18:479][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-14.12.18:498][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-14.12.18:498][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-14.12.18:498][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-14.12.18:498][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-14.12.18:498][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2023.04.03-14.12.18:498][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2023.04.03-14.12.18:500][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2023.04.03-14.12.18:500][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2023.04.03-14.12.18:500][285]LogInit: FAudioDevice initialized.
+[2023.04.03-14.12.18:500][285]LogAudio: Display: Audio Device (ID: 90) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-14.12.18:503][285]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-14.12.18:592][285]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-15.12.18
+[2023.04.03-14.12.18:599][285]LogWorld: Bringing up level for play took: 0.095591
+[2023.04.03-14.12.18:600][285]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2023.04.03-14.12.18:623][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-14.12.18:623][285]PIE: Server logged in
+[2023.04.03-14.12.18:624][285]PIE: Play in editor total start time 0.481 seconds.
+[2023.04.03-14.12.42:529][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.12.42:529][109]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.12.42:532][109]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-14.12.42:544][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.12.42:549][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-14.12.42:565][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.12.42:652][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.12.42:655][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.04.03-14.12.42:656][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.04.03-14.12.42:690][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.04.03-14.12.42:743][110]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2023.04.03-14.13.40:027][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-14.13.40:034][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-14.13.40:034][399]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 16:13:40)
+[2023.04.03-14.13.40:040][399]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.13.40:295][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254324s)
+[2023.04.03-14.13.40:295][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.254361s)
+[2023.04.03-14.13.40:295][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-14.13.40:295][399]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-14.13.40:296][399]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2023.04.03-14.13.40:371][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.04.03-14.13.40:374][399]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-14.13.40:374][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-14.13.40:374][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-14.13.40:375][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-14.13.40:375][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-14.13.40:375][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-14.13.40:376][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-14.13.40:393][399]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-14.13.40:394][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-14.13.40:394][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-14.13.40:394][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-14.13.40:394][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2023.04.03-14.13.40:394][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2023.04.03-14.13.40:396][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2023.04.03-14.13.40:396][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2023.04.03-14.13.40:396][399]LogInit: FAudioDevice initialized.
+[2023.04.03-14.13.40:396][399]LogAudio: Display: Audio Device (ID: 91) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-14.13.40:399][399]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-14.13.40:487][399]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-15.13.40
+[2023.04.03-14.13.40:493][399]LogWorld: Bringing up level for play took: 0.093883
+[2023.04.03-14.13.40:495][399]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2023.04.03-14.13.40:518][399]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-14.13.40:518][399]PIE: Server logged in
+[2023.04.03-14.13.40:519][399]PIE: Play in editor total start time 0.485 seconds.
+[2023.04.03-14.13.51:269][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.13.51:269][662]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.13.51:272][662]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-14.13.51:284][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.13.51:289][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-14.13.51:306][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.13.51:384][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-14.13.51:384][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.04.03-14.13.51:386][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.04.03-14.13.51:389][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.13.51:432][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.03-14.13.51:482][663]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2023.04.03-14.13.52:933][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.03-14.13.52:940][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-14.13.52:940][817]PIE: New page: PIE session: EmeraldTrailSub1 (3 Apr 2023, 16:13:52)
+[2023.04.03-14.13.52:968][817]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.13.53:225][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256326s)
+[2023.04.03-14.13.53:225][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/EmeraldTrailSub1.EmeraldTrailSub1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 (0.256362s)
+[2023.04.03-14.13.53:225][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-14.13.53:226][817]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.04.03-14.13.53:226][817]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2023.04.03-14.13.53:302][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.03-14.13.53:304][817]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.03-14.13.53:304][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-14.13.53:304][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-14.13.53:305][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-14.13.53:305][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-14.13.53:305][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-14.13.53:306][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.03-14.13.53:324][817]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.04.03-14.13.53:325][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-14.13.53:325][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-14.13.53:325][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-14.13.53:325][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2023.04.03-14.13.53:325][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2023.04.03-14.13.53:327][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2023.04.03-14.13.53:327][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2023.04.03-14.13.53:327][817]LogInit: FAudioDevice initialized.
+[2023.04.03-14.13.53:327][817]LogAudio: Display: Audio Device (ID: 92) registered with world 'EmeraldTrailSub1'.
+[2023.04.03-14.13.53:330][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.03-14.13.53:422][817]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.04.03-15.13.53
+[2023.04.03-14.13.53:429][817]LogWorld: Bringing up level for play took: 0.099116
+[2023.04.03-14.13.53:431][817]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2023.04.03-14.13.53:453][817]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.03-14.13.53:454][817]PIE: Server logged in
+[2023.04.03-14.13.53:454][817]PIE: Play in editor total start time 0.514 seconds.
+[2023.04.03-14.16.19:125][137]LogNet: Browse: /Game/ThirdPersonBP/Maps/GameOver
+[2023.04.03-14.16.19:125][137]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/GameOver
+[2023.04.03-14.16.19:125][137]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.04.03-14.16.19:128][137]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-14.16.19:141][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.16.19:255][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-14.16.19:298][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.04.03-14.16.19:311][137]LogAudio: Display: Audio Device (ID: 92) registered with world 'GameOver'.
+[2023.04.03-14.16.19:311][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-14.16.19:312][137]LogAIModule: Creating AISystem for world GameOver
+[2023.04.03-14.16.19:312][137]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2023.04.03-14.16.19:312][137]LogLoad: Game class is 'GameOverGameMode_C'
+[2023.04.03-14.16.19:314][137]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2023.04.03-15.16.19
+[2023.04.03-14.16.19:314][137]LogWorld: Bringing up level for play took: 0.001598
+[2023.04.03-14.16.19:315][137]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Quit)
+[2023.04.03-14.16.19:315][137]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.03-14.16.19:315][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.04.03-14.16.19:316][137]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Retry)
+[2023.04.03-14.16.19:317][137]LogLoad: Took 0.192111 seconds to LoadMap(/Game/ThirdPersonBP/Maps/GameOver)
+[2023.04.03-14.16.21:454][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.16.21:454][392]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver
+[2023.04.03-14.16.21:478][392]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-14.16.21:479][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.16.21:481][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-14.16.21:493][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-14.16.21:567][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-14.16.21:567][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.04.03-14.16.21:569][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.04.03-14.16.21:572][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-14.16.21:577][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.04.03-14.16.21:619][393]LogPlayLevel: Display: Destroying online subsystem :Context_117
