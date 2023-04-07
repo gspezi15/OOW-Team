@@ -1086,3 +1086,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.07-11.04.02:911][485]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/OOWHud_Auto155905C074011634C38282BB8BA0F564B.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/UI/OOWHud_Auto1.uasset'
 [2023.04.07-11.04.02:914][485]LogFileHelpers: Auto-saving content packages took 0.069
 [2023.04.07-11.43.28:849][582]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.408 and deleted 0 files with total size 0 MiB. Scanned 5532 files in 5471 folders with total size 162 MiB.
+[2023.04.07-12.43.28:648][379]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.207 and deleted 0 files with total size 0 MiB. Scanned 5532 files in 5471 folders with total size 162 MiB.
