@@ -1,2 +1,8 @@
+**/Intermediate/**
+**/Plugins/*/Intermediate/**
+
+**/DerivedDataCache/**
+**/Build/**
+**/Binaries/**
 
 *.log
