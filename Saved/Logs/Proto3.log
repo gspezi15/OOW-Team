@@ -3615,3 +3615,1243 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.13-12.03.43:556][756]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.10.13-12.03.45:942][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> Inputs
 [2023.10.13-12.03.45:942][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.13-12.07.39:982][170]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.079 and deleted 0 files with total size 0 MiB. Scanned 1190 files in 1189 folders with total size 21 MiB.
+[2023.10.13-12.13.59:591][337]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.10.13-12.13.59:597][337]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.10.13-12.13.59:623][339]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.10.13-12.14.08:274][376]LogContentBrowser: Attempting asset rename: NewInputAction -> MoveLeft
+[2023.10.13-12.14.08:278][376]LogContentBrowser: End creating deferred item NewInputAction
+[2023.10.13-12.14.14:346][984]LogContentBrowser: Attempting asset rename: MoveLeft_2 -> MoveRight
+[2023.10.13-12.14.14:443][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.14.14:507][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveRight" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset" SILENT=true
+[2023.10.13-12.14.14:507][984]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight
+[2023.10.13-12.14.14:507][984]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveRightACA173DA44E4192EB682189440BC19A9.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset'
+[2023.10.13-12.14.14:516][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.27 sec)
+[2023.10.13-12.14.14:629][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.13-12.14.14:713][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-12.14.14:793][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.13-12.14.14:803][984]AssetCheck: New page: Asset Save: MoveRight
+[2023.10.13-12.14.14:803][984]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight.MoveRight
+[2023.10.13-12.14.19:760][478]LogContentBrowser: Attempting asset rename: MoveRight_2 -> MoveUp
+[2023.10.13-12.14.19:781][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.14.19:846][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset" SILENT=true
+[2023.10.13-12.14.19:847][478]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp
+[2023.10.13-12.14.19:847][478]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveUp9C5FACF0440981F9081292987B91181D.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset'
+[2023.10.13-12.14.19:854][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.34 sec)
+[2023.10.13-12.14.19:957][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.13-12.14.20:039][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.13-12.14.20:122][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.13-12.14.20:130][478]AssetCheck: New page: Asset Save: MoveUp
+[2023.10.13-12.14.20:130][478]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp.MoveUp
+[2023.10.13-12.14.23:114][743]LogContentBrowser: Attempting asset rename: MoveUp_2 -> MoveUp_2
+[2023.10.13-12.14.26:570][128]LogContentBrowser: Attempting asset rename: MoveUp_2 -> MoveUp_2
+[2023.10.13-12.14.31:981][740]LogContentBrowser: Attempting asset rename: MoveUp_2 -> MoveDown
+[2023.10.13-12.14.32:001][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.14.32:058][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset" SILENT=true
+[2023.10.13-12.14.32:059][740]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown
+[2023.10.13-12.14.32:059][740]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveDown511292D84DA01D00F5EEBFA6E9B920E0.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset'
+[2023.10.13-12.14.32:067][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 2.41 sec)
+[2023.10.13-12.14.32:168][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.13-12.14.32:249][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.13-12.14.32:329][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.13-12.14.32:340][740]AssetCheck: New page: Asset Save: MoveDown
+[2023.10.13-12.14.32:340][740]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown.MoveDown
+[2023.10.13-12.14.34:384][939]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft.MoveLeft
+[2023.10.13-12.14.48:693][531]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight.MoveRight
+[2023.10.13-12.14.56:981][419]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp.MoveUp
+[2023.10.13-12.15.00:816][771]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown.MoveDown
+[2023.10.13-12.15.19:870][874]LogEditorClassViewer: Warning: Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-12.15.19:871][874]LogEditorClassViewer: Warning: Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-12.15.19:871][874]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-12.15.19:871][874]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-12.15.19:871][874]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-12.15.35:412][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.15.35:463][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveLeft.uasset" SILENT=true
+[2023.10.13-12.15.35:464][595]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft
+[2023.10.13-12.15.35:464][595]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveLeft3EB25C82453B0A85279D1C8C603169EA.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveLeft.uasset'
+[2023.10.13-12.15.35:476][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.47 sec)
+[2023.10.13-12.15.35:488][595]AssetCheck: New page: Asset Save: MoveLeft
+[2023.10.13-12.15.35:488][595]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft.MoveLeft
+[2023.10.13-12.15.43:942][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.15.44:007][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveRight" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset" SILENT=true
+[2023.10.13-12.15.44:008][454]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight
+[2023.10.13-12.15.44:009][454]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveRight9F83BC97466FAA6EE35875830877FAEB.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset'
+[2023.10.13-12.15.44:023][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.55 sec)
+[2023.10.13-12.15.44:030][454]AssetCheck: New page: Asset Save: MoveRight
+[2023.10.13-12.15.44:030][454]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight.MoveRight
+[2023.10.13-12.17.19:107][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.13-12.17.19:111][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MMLevel' took 0.092
+[2023.10.13-12.17.19:111][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp] ([1] browsable assets)...
+[2023.10.13-12.17.19:111][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp]
+[2023.10.13-12.17.19:112][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp_Auto3
+[2023.10.13-12.17.19:112][568]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveUp_Auto3E501AEE845EFC3E35156FEBC0B9B56BA.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp_Auto3.uasset'
+[2023.10.13-12.17.19:113][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown] ([1] browsable assets)...
+[2023.10.13-12.17.19:113][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown]
+[2023.10.13-12.17.19:114][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown_Auto3
+[2023.10.13-12.17.19:114][568]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveDown_Auto319AF33DE40F574FF761552A38D69B8CF.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown_Auto3.uasset'
+[2023.10.13-12.17.19:114][568]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.10.13-12.17.23:027][941]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.10.13-12.17.23:034][941]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.10.13-12.17.23:044][942]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.10.13-12.17.28:428][584]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> Movement
+[2023.10.13-12.17.28:429][584]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.10.13-12.17.29:598][714]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Movement.Movement
+[2023.10.13-12.18.18:652][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-12.18.18:705][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Movement" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Movement.uasset" SILENT=true
+[2023.10.13-12.18.18:706][ 27]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Movement
+[2023.10.13-12.18.18:706][ 27]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Movement330C92E14BFF9C2A7F115784C34F8495.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Movement.uasset'
+[2023.10.13-12.18.18:716][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.62 sec)
+[2023.10.13-12.18.18:727][ 27]AssetCheck: New page: Asset Save: Movement
+[2023.10.13-12.18.18:727][ 27]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Movement.Movement
+[2023.10.13-12.36.57:511][426]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-12.36.59:419][432]LogUdpMessaging: Display: Added local interface '192.168.1.200' to multicast group '230.0.0.1:6666'
+[2023.10.13-13.01.31:485][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.01.31:561][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset" SILENT=true
+[2023.10.13-13.01.31:564][312]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp
+[2023.10.13-13.01.31:564][312]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveUpDC5C6F0D49E5392FE1FAE69C2E341025.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset'
+[2023.10.13-13.01.31:595][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.73 sec)
+[2023.10.13-13.01.31:727][312]AssetCheck: New page: Asset Save: MoveUp
+[2023.10.13-13.01.31:727][312]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp.MoveUp
+[2023.10.13-13.01.33:001][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.01.33:068][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset" SILENT=true
+[2023.10.13-13.01.33:069][447]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown
+[2023.10.13-13.01.33:069][447]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveDown6CEE97874A54724019B33D8306449033.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset'
+[2023.10.13-13.01.33:080][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.81 sec)
+[2023.10.13-13.01.33:143][447]AssetCheck: New page: Asset Save: MoveDown
+[2023.10.13-13.01.33:143][447]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown.MoveDown
+[2023.10.13-13.01.43:497][329]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.10.13-13.01.43:504][329]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.10.13-13.01.43:511][330]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.10.13-13.01.47:012][746]LogContentBrowser: Attempting asset rename: NewInputAction -> Shoot
+[2023.10.13-13.01.47:015][746]LogContentBrowser: End creating deferred item NewInputAction
+[2023.10.13-13.01.47:333][784]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-13.02.27:362][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.02.27:427][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Shoot" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset" SILENT=true
+[2023.10.13-13.02.27:428][221]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot
+[2023.10.13-13.02.27:428][221]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ShootF6DDCE84400E1F2B15BFDDB599D5F3CC.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset'
+[2023.10.13-13.02.27:438][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.88 sec)
+[2023.10.13-13.02.27:448][221]AssetCheck: New page: Asset Save: Shoot
+[2023.10.13-13.02.27:448][221]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-13.02.41:439][310]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.10.13-13.02.41:446][310]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.10.13-13.02.41:454][311]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.10.13-13.02.44:733][703]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> Weapon
+[2023.10.13-13.02.44:734][703]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.10.13-13.02.45:007][736]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Weapon.Weapon
+[2023.10.13-13.02.58:522][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.02.58:576][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Weapon" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Weapon.uasset" SILENT=true
+[2023.10.13-13.02.58:577][239]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Weapon
+[2023.10.13-13.02.58:577][239]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Weapon2D1F35EE418B895934EAB9842D769DF1.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Weapon.uasset'
+[2023.10.13-13.02.58:588][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.95 sec)
+[2023.10.13-13.02.58:595][239]AssetCheck: New page: Asset Save: Weapon
+[2023.10.13-13.02.58:595][239]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Weapon.Weapon
+[2023.10.13-13.04.05:211][379]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-13.04.05:613][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.10.13-13.04.07:241][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-13.04.07:250][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-13.04.07:250][526]PIE: New page: PIE session: MMLevel (13 Oct 2023, 15:04:07)
+[2023.10.13-13.04.07:283][526]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-13.04.07:284][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001383s)
+[2023.10.13-13.04.07:284][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001419s)
+[2023.10.13-13.04.07:284][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.04.07:285][526]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-13.04.07:285][526]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2023.10.13-13.04.07:420][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.13-13.04.07:424][526]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-13.04.07:424][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-13.04.07:424][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-13.04.07:425][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-13.04.07:425][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-13.04.07:425][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-13.04.07:427][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-13.04.07:444][526]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-13.04.07:445][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-13.04.07:445][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-13.04.07:445][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-13.04.07:445][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.10.13-13.04.07:445][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.10.13-13.04.07:447][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.10.13-13.04.07:447][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.10.13-13.04.07:447][526]LogInit: FAudioDevice initialized.
+[2023.10.13-13.04.07:447][526]LogAudio: Display: Audio Device (ID: 18) registered with world 'MMLevel'.
+[2023.10.13-13.04.07:449][526]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-13.04.07:451][526]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-14.04.07
+[2023.10.13-13.04.07:451][526]LogWorld: Bringing up level for play took: 0.001696
+[2023.10.13-13.04.07:453][526]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.10.13-13.04.07:457][526]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-13.04.07:457][526]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-13.04.07:457][526]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-13.04.07:459][526]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-13.04.07:459][526]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-13.04.07:460][526]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-13.04.07:460][526]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-13.04.07:460][526]PIE: Server logged in
+[2023.10.13-13.04.07:461][526]PIE: Play in editor total start time 0.212 seconds.
+[2023.10.13-13.04.09:319][746]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-13.04.09:319][746]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-13.04.09:319][746]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-13.04.09:320][746]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.04.09:320][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.04.09:426][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.04.09:430][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.10.13-13.04.09:435][746]LogAudio: Display: Audio Device (ID: 18) registered with world 'IntroCutscene'.
+[2023.10.13-13.04.09:436][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.04.09:436][746]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-13.04.09:436][746]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.10.13-13.04.09:436][746]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-13.04.09:437][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-14.04.09
+[2023.10.13-13.04.09:438][746]LogWorld: Bringing up level for play took: 0.001301
+[2023.10.13-13.04.09:438][746]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-13.04.09:439][746]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-13.04.09:439][746]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-13.04.09:439][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-13.04.09:441][746]LogLoad: Took 0.122033 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-13.04.10:363][857]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-13.04.10:363][857]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-13.04.10:363][857]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-13.04.10:364][857]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.04.10:364][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.04.10:476][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.04.10:479][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.13-13.04.10:523][857]LogAudio: Display: Audio Device (ID: 18) registered with world 'WrexhamTut'.
+[2023.10.13-13.04.10:523][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.04.10:523][857]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-13.04.10:524][857]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2023.10.13-13.04.10:524][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-13.04.10:596][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-14.04.10
+[2023.10.13-13.04.10:598][857]LogWorld: Bringing up level for play took: 0.074423
+[2023.10.13-13.04.10:603][857]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-13.04.10:603][857]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-13.04.10:603][857]LogLoad: Took 0.240571 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-13.04.17:243][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-13.04.17:243][634]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-13.04.17:243][634]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.04.17:245][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.04.17:249][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-13.04.17:257][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.04.17:340][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.04.17:341][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.13-13.04.17:343][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.10.13-13.04.17:346][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-13.04.17:351][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.13-13.04.17:374][635]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.10.13-13.04.38:744][686]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-13.04.38:915][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.10.13-13.04.54:904][335]LogEditorClassViewer: Warning: Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-13.04.54:904][335]LogEditorClassViewer: Warning: Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-13.04.54:905][335]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-13.04.54:905][335]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-13.04.54:905][335]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-13.05.01:746][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.05.01:809][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Weapon" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Weapon.uasset" SILENT=true
+[2023.10.13-13.05.01:810][121]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Weapon
+[2023.10.13-13.05.01:810][121]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Weapon351D5E6D48197D454BA44A8F60B6E82E.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Weapon.uasset'
+[2023.10.13-13.05.01:819][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.02 sec)
+[2023.10.13-13.05.01:827][121]AssetCheck: New page: Asset Save: Weapon
+[2023.10.13-13.05.01:827][121]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Weapon.Weapon
+[2023.10.13-13.05.03:768][333]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-13.05.03:776][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-13.05.03:776][333]PIE: New page: PIE session: MMLevel (13 Oct 2023, 15:05:03)
+[2023.10.13-13.05.03:812][333]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-13.05.03:813][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000985s)
+[2023.10.13-13.05.03:813][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001018s)
+[2023.10.13-13.05.03:813][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.05.03:814][333]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-13.05.03:814][333]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2023.10.13-13.05.03:902][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.10.13-13.05.03:908][333]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-13.05.03:908][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-13.05.03:908][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-13.05.03:908][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-13.05.03:908][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-13.05.03:908][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-13.05.03:910][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-13.05.03:926][333]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-13.05.03:926][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-13.05.03:926][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-13.05.03:926][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-13.05.03:927][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.10.13-13.05.03:927][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.10.13-13.05.03:928][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.10.13-13.05.03:928][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.10.13-13.05.03:928][333]LogInit: FAudioDevice initialized.
+[2023.10.13-13.05.03:928][333]LogAudio: Display: Audio Device (ID: 19) registered with world 'MMLevel'.
+[2023.10.13-13.05.03:930][333]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-13.05.03:931][333]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-14.05.03
+[2023.10.13-13.05.03:931][333]LogWorld: Bringing up level for play took: 0.000397
+[2023.10.13-13.05.03:933][333]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.10.13-13.05.03:935][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-13.05.03:935][333]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-13.05.03:935][333]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-13.05.03:936][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-13.05.03:937][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-13.05.03:938][333]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-13.05.03:938][333]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-13.05.03:938][333]PIE: Server logged in
+[2023.10.13-13.05.03:938][333]PIE: Play in editor total start time 0.162 seconds.
+[2023.10.13-13.05.05:076][469]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-13.05.05:076][469]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-13.05.05:076][469]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-13.05.05:077][469]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.05.05:077][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.05.05:184][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.05.05:187][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-13.05.05:192][469]LogAudio: Display: Audio Device (ID: 19) registered with world 'IntroCutscene'.
+[2023.10.13-13.05.05:192][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.05.05:192][469]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-13.05.05:192][469]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2023.10.13-13.05.05:192][469]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-13.05.05:193][469]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-14.05.05
+[2023.10.13-13.05.05:193][469]LogWorld: Bringing up level for play took: 0.001093
+[2023.10.13-13.05.05:194][469]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-13.05.05:195][469]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-13.05.05:195][469]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-13.05.05:195][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-13.05.05:196][469]LogLoad: Took 0.119764 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-13.05.06:093][577]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-13.05.06:093][577]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-13.05.06:093][577]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-13.05.06:093][577]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.05.06:093][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.05.06:202][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.05.06:205][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.13-13.05.06:247][577]LogAudio: Display: Audio Device (ID: 19) registered with world 'WrexhamTut'.
+[2023.10.13-13.05.06:247][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-13.05.06:248][577]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-13.05.06:248][577]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.10.13-13.05.06:248][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-13.05.06:320][577]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-14.05.06
+[2023.10.13-13.05.06:322][577]LogWorld: Bringing up level for play took: 0.074239
+[2023.10.13-13.05.06:327][577]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-13.05.06:327][577]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-13.05.06:327][577]LogLoad: Took 0.234542 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-13.05.09:903][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-13.05.09:903][997]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-13.05.09:903][997]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-13.05.09:904][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.05.09:907][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-13.05.09:915][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-13.05.09:998][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-13.05.09:999][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.13-13.05.10:001][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.13-13.05.10:004][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-13.05.10:010][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.13-13.05.10:033][998]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.10.13-13.05.37:959][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.13-13.05.37:962][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MMLevel' took 0.101
+[2023.10.13-13.05.37:962][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.10.13-13.05.37:976][760]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.10.13-13.05.37:976][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter]
+[2023.10.13-13.05.38:029][760]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto4
+[2023.10.13-13.05.38:030][760]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter_Auto44585DC084E82DD2EC9CBC487A31D63F7.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto4.uasset'
+[2023.10.13-13.05.38:031][760]LogFileHelpers: Auto-saving content packages took 0.069
+[2023.10.13-13.07.16:328][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-13.07.16:503][853]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-13.07.16:504][853]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter475B8BDC4513B095FF195A9E136AD3B9.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-13.07.16:513][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 3.20 sec)
+[2023.10.13-13.07.16:523][853]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-13.07.16:523][853]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-13.07.40:949][ 19]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.046 and deleted 0 files with total size 0 MiB. Scanned 1191 files in 1190 folders with total size 21 MiB.
+[2023.10.13-14.07.40:015][816]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.110 and deleted 0 files with total size 0 MiB. Scanned 1191 files in 1190 folders with total size 21 MiB.
+[2023.10.13-14.30.07:107][976]AssetReimport: New page: Outstanding source content changes 16:30:07
+[2023.10.13-14.30.07:184][977]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn.wav)
+[2023.10.13-14.30.07:290][978]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/RustleSpawn.wav)
+[2023.10.13-14.30.07:309][978]LogAudioEditor: Performing atomic reimport of [C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.wav]
+[2023.10.13-14.30.07:310][978]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.wav)
+[2023.10.13-14.30.07:326][978]LogAudioEditor: -- imported successfully
+[2023.10.13-14.30.07:349][978]LogAudio: Display: Chunk size for SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.Coyote: 262144
+[2023.10.13-14.30.07:393][979]LogAudioEditor: Performing atomic reimport of [C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Bear striker.wav]
+[2023.10.13-14.30.07:393][979]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Bear striker.wav)
+[2023.10.13-14.30.07:419][979]LogAudioEditor: -- imported successfully
+[2023.10.13-14.30.07:446][979]LogAudio: Display: Chunk size for SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/Bear_striker.Bear_striker: 262144
+[2023.10.13-14.30.07:499][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.30.07:620][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn.uasset" SILENT=true
+[2023.10.13-14.30.07:628][980]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn
+[2023.10.13-14.30.07:628][980]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/BoarSpawn27503C1A40B08CD1336C39AA5AFA9D16.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn.uasset'
+[2023.10.13-14.30.07:636][980]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Audio/SFX/RustleSpawn
+[2023.10.13-14.30.07:636][980]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/RustleSpawn4E8BC6614A57B140BC612E978793814A.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/RustleSpawn.uasset'
+[2023.10.13-14.30.07:638][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Audio/SFX/Coyote" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.uasset" SILENT=true
+[2023.10.13-14.30.07:640][980]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Audio/SFX/Coyote
+[2023.10.13-14.30.07:641][980]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Coyote3F91E1CA4D1EDE66DE1DE8BF5A718527.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.uasset'
+[2023.10.13-14.30.07:645][980]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Audio/SFX/Bear_striker
+[2023.10.13-14.30.07:645][980]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Bear_strikerFC2AB89B4BDD64FE72CB7286A557C891.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Bear_striker.uasset'
+[2023.10.13-14.30.07:659][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 3.36 sec)
+[2023.10.13-14.30.07:814][981]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.13-14.30.07:814][981]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.Coyote
+[2023.10.13-14.30.07:814][981]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/Bear_striker.Bear_striker
+[2023.10.13-14.30.07:815][981]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/RustleSpawn.RustleSpawn
+[2023.10.13-14.30.07:815][981]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn.BoarSpawn
+[2023.10.13-14.30.10:665][295]AssetReimport: Importing new asset /Game/ThirdPersonBP/Blueprints/Audio/SFX/BoarSpawn.
+[2023.10.13-14.30.10:665][295]AssetReimport: Importing new asset /Game/ThirdPersonBP/Blueprints/Audio/SFX/RustleSpawn.
+[2023.10.13-14.30.10:665][295]AssetReimport: Reimported asset Coyote from C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Coyote.wav.
+[2023.10.13-14.30.10:665][295]AssetReimport: Reimported asset Bear_striker from C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Audio/SFX/Bear striker.wav.
+[2023.10.13-14.30.15:572][615]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.30.16:164][615]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2023.10.13-14.34.56:857][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.10.13-14.34.56:860][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MMLevel' took 0.093
+[2023.10.13-14.34.56:860][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.10.13-14.34.56:875][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.10.13-14.34.56:875][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter]
+[2023.10.13-14.34.56:929][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto5
+[2023.10.13-14.34.56:929][344]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter_Auto523AA6F9842E46E164F5938902F6BD70A.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto5.uasset'
+[2023.10.13-14.34.56:930][344]LogFileHelpers: Auto-saving content packages took 0.070
+[2023.10.13-14.35.04:150][762]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.35.04:365][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.10.13-14.35.46:209][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.35.46:331][920]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.35.46:331][920]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter57E4AAA944253D4890A15E871E11674B.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.35.46:340][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 3.50 sec)
+[2023.10.13-14.35.46:349][920]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.35.46:349][920]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.36.01:651][ 83]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.36.01:828][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.13-14.36.04:790][333]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-14.36.04:798][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-14.36.04:798][333]PIE: New page: PIE session: MMLevel (13 Oct 2023, 16:36:04)
+[2023.10.13-14.36.04:823][333]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.36.04:824][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001309s)
+[2023.10.13-14.36.04:824][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001341s)
+[2023.10.13-14.36.04:824][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.36.04:825][333]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-14.36.04:825][333]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2023.10.13-14.36.04:913][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.10.13-14.36.04:919][333]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.36.04:919][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.36.04:919][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.36.04:919][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.36.04:919][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.36.04:919][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.36.04:975][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.36.04:991][333]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-14.36.04:992][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.36.04:992][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.36.04:992][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.36.04:993][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.10.13-14.36.04:993][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.10.13-14.36.04:995][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.10.13-14.36.04:995][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.10.13-14.36.04:995][333]LogInit: FAudioDevice initialized.
+[2023.10.13-14.36.04:995][333]LogAudio: Display: Audio Device (ID: 20) registered with world 'MMLevel'.
+[2023.10.13-14.36.05:001][333]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-14.36.05:002][333]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-15.36.05
+[2023.10.13-14.36.05:002][333]LogWorld: Bringing up level for play took: 0.000495
+[2023.10.13-14.36.05:004][333]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.10.13-14.36.05:007][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-14.36.05:007][333]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.36.05:007][333]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-14.36.05:009][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-14.36.05:009][333]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-14.36.05:011][333]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.36.05:011][333]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.36.05:012][333]PIE: Server logged in
+[2023.10.13-14.36.05:012][333]PIE: Play in editor total start time 0.215 seconds.
+[2023.10.13-14.36.07:250][600]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.36.07:250][600]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.36.07:250][600]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.36.07:251][600]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.36.07:251][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.36.07:366][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.36.07:369][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.13-14.36.07:381][600]LogAudio: Display: Audio Device (ID: 20) registered with world 'IntroCutscene'.
+[2023.10.13-14.36.07:381][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.36.07:382][600]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-14.36.07:382][600]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2023.10.13-14.36.07:382][600]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-14.36.07:383][600]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-15.36.07
+[2023.10.13-14.36.07:383][600]LogWorld: Bringing up level for play took: 0.001300
+[2023.10.13-14.36.07:384][600]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-14.36.07:385][600]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-14.36.07:385][600]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.36.07:385][600]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-14.36.07:387][600]LogLoad: Took 0.136700 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-14.36.08:385][720]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.36.08:385][720]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.36.08:385][720]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-14.36.08:385][720]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.36.08:385][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.36.08:495][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.36.08:498][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-14.36.08:546][720]LogAudio: Display: Audio Device (ID: 20) registered with world 'WrexhamTut'.
+[2023.10.13-14.36.08:547][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.36.08:547][720]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-14.36.08:547][720]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2023.10.13-14.36.08:547][720]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.36.08:620][720]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-15.36.08
+[2023.10.13-14.36.08:622][720]LogWorld: Bringing up level for play took: 0.074343
+[2023.10.13-14.36.08:627][720]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.36.08:627][720]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.36.08:628][720]LogLoad: Took 0.242927 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-14.36.12:273][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.36.12:273][148]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-14.36.12:274][148]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.36.12:275][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.36.12:278][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-14.36.12:286][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.36.12:376][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.36.12:376][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.13-14.36.12:377][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.13-14.36.12:382][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.36.12:387][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-14.36.12:410][149]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.10.13-14.36.49:233][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.36.49:374][ 73]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.36.49:375][ 73]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacterF8119E704F75FEA445B1AC9656F211FA.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.36.49:384][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.65 sec)
+[2023.10.13-14.36.49:391][ 73]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.36.49:391][ 73]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.37.16:069][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.37.16:231][365]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.37.16:232][365]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacterC998A7D14B46BEE4EABC04BB16B26F17.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.37.16:242][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 3.82 sec)
+[2023.10.13-14.37.16:250][365]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.37.16:250][365]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.37.17:376][451]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.37.17:621][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.10.13-14.37.33:796][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.37.33:932][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.37.33:933][ 33]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter08089B214E5A24E851CFB481D9EA4D32.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.37.33:941][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.97 sec)
+[2023.10.13-14.37.33:953][ 33]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.37.33:953][ 33]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.37.34:333][ 75]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.37.34:508][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.13-14.37.35:078][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.37.35:193][112]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.37.35:193][112]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacterFC180AEE478F6E3F1DF91CB6AE21D7C5.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.37.35:201][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 4.09 sec)
+[2023.10.13-14.37.35:210][112]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.37.35:210][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.37.36:781][292]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-14.37.36:788][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-14.37.36:788][292]PIE: New page: PIE session: MMLevel (13 Oct 2023, 16:37:36)
+[2023.10.13-14.37.36:813][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.37.36:814][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000947s)
+[2023.10.13-14.37.36:814][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.000979s)
+[2023.10.13-14.37.36:814][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.37.36:814][292]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-14.37.36:814][292]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2023.10.13-14.37.36:986][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.13-14.37.36:993][292]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.37.36:993][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.37.36:993][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.37.36:994][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.37.36:994][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.37.36:994][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.37.36:995][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.37.37:011][292]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-14.37.37:011][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.37.37:011][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.37.37:011][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.37.37:012][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.10.13-14.37.37:012][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.10.13-14.37.37:013][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.10.13-14.37.37:014][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.10.13-14.37.37:014][292]LogInit: FAudioDevice initialized.
+[2023.10.13-14.37.37:014][292]LogAudio: Display: Audio Device (ID: 21) registered with world 'MMLevel'.
+[2023.10.13-14.37.37:016][292]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-14.37.37:016][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-15.37.37
+[2023.10.13-14.37.37:016][292]LogWorld: Bringing up level for play took: 0.000344
+[2023.10.13-14.37.37:018][292]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.10.13-14.37.37:020][292]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-14.37.37:020][292]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.37.37:020][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-14.37.37:022][292]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-14.37.37:023][292]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-14.37.37:025][292]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.37.37:025][292]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.37.37:025][292]PIE: Server logged in
+[2023.10.13-14.37.37:025][292]PIE: Play in editor total start time 0.238 seconds.
+[2023.10.13-14.37.38:425][460]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.37.38:425][460]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.37.38:425][460]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.37.38:426][460]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.37.38:426][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.37.38:555][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.37.38:557][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.13-14.37.38:562][460]LogAudio: Display: Audio Device (ID: 21) registered with world 'IntroCutscene'.
+[2023.10.13-14.37.38:562][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.37.38:563][460]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-14.37.38:563][460]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.10.13-14.37.38:563][460]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-14.37.38:564][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-15.37.38
+[2023.10.13-14.37.38:564][460]LogWorld: Bringing up level for play took: 0.001095
+[2023.10.13-14.37.38:564][460]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-14.37.38:565][460]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-14.37.38:565][460]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.37.38:565][460]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-14.37.38:567][460]LogLoad: Took 0.142328 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-14.37.39:649][588]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.37.39:649][588]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.37.39:649][588]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-14.37.39:649][588]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.37.39:649][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.37.39:764][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.37.39:767][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.13-14.37.39:809][588]LogAudio: Display: Audio Device (ID: 21) registered with world 'WrexhamTut'.
+[2023.10.13-14.37.39:809][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.37.39:809][588]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-14.37.39:810][588]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2023.10.13-14.37.39:810][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.37.39:880][588]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-15.37.39
+[2023.10.13-14.37.39:882][588]LogWorld: Bringing up level for play took: 0.072532
+[2023.10.13-14.37.39:888][588]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.37.39:888][588]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.37.39:888][588]LogLoad: Took 0.239288 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-14.37.52:612][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.37.52:612][100]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-14.37.52:613][100]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.37.52:614][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.37.52:618][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-14.37.52:627][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.37.52:718][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.37.52:718][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.13-14.37.52:720][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.13-14.37.52:724][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.37.52:733][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.13-14.37.52:757][101]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.10.13-14.38.03:009][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.38.03:133][947]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.38.03:134][947]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter8A085265445F0BE855377EBCBDC6909C.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.38.03:143][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.22 sec)
+[2023.10.13-14.38.03:151][947]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.38.03:151][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.38.04:727][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-14.38.04:737][116]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.13-14.38.04:749][116]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2023.10.13-14.38.05:039][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.13-14.38.05:042][116]LogPlayLevel: PlayLevel: Blueprint regeneration took 305 ms (1 blueprints)
+[2023.10.13-14.38.05:042][116]PIE: New page: PIE session: MMLevel (13 Oct 2023, 16:38:05)
+[2023.10.13-14.38.05:062][116]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.38.05:063][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001061s)
+[2023.10.13-14.38.05:064][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001099s)
+[2023.10.13-14.38.05:064][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.38.05:064][116]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-14.38.05:064][116]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2023.10.13-14.38.05:153][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-14.38.05:154][116]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.38.05:154][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.38.05:154][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.38.05:155][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.38.05:155][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.38.05:155][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.38.05:157][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.38.05:173][116]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-14.38.05:173][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.38.05:173][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.38.05:173][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.38.05:173][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.10.13-14.38.05:174][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.10.13-14.38.05:175][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.10.13-14.38.05:175][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.10.13-14.38.05:175][116]LogInit: FAudioDevice initialized.
+[2023.10.13-14.38.05:175][116]LogAudio: Display: Audio Device (ID: 22) registered with world 'MMLevel'.
+[2023.10.13-14.38.05:178][116]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-14.38.05:179][116]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-15.38.05
+[2023.10.13-14.38.05:180][116]LogWorld: Bringing up level for play took: 0.001573
+[2023.10.13-14.38.05:182][116]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.10.13-14.38.05:184][116]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-14.38.05:184][116]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.38.05:184][116]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-14.38.05:186][116]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-14.38.05:187][116]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-14.38.05:188][116]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.38.05:188][116]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.38.05:188][116]PIE: Server logged in
+[2023.10.13-14.38.05:188][116]PIE: Play in editor total start time 0.453 seconds.
+[2023.10.13-14.38.06:880][317]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.38.06:880][317]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.38.06:880][317]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.38.06:881][317]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.38.06:881][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.38.06:985][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.38.06:989][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.13-14.38.06:994][317]LogAudio: Display: Audio Device (ID: 22) registered with world 'IntroCutscene'.
+[2023.10.13-14.38.06:994][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.38.06:994][317]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-14.38.06:994][317]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.10.13-14.38.06:994][317]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-14.38.06:995][317]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-15.38.06
+[2023.10.13-14.38.06:996][317]LogWorld: Bringing up level for play took: 0.001088
+[2023.10.13-14.38.06:996][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-14.38.06:997][317]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-14.38.06:997][317]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.38.06:997][317]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-14.38.06:998][317]LogLoad: Took 0.118519 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-14.38.07:736][406]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.38.07:736][406]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.38.07:736][406]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-14.38.07:737][406]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.38.07:737][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.38.07:865][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.38.07:867][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.10.13-14.38.07:910][406]LogAudio: Display: Audio Device (ID: 22) registered with world 'WrexhamTut'.
+[2023.10.13-14.38.07:910][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.38.07:910][406]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-14.38.07:910][406]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2023.10.13-14.38.07:910][406]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.38.07:982][406]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-15.38.07
+[2023.10.13-14.38.07:984][406]LogWorld: Bringing up level for play took: 0.072661
+[2023.10.13-14.38.07:990][406]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.38.07:990][406]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.38.07:990][406]LogLoad: Took 0.252629 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-14.38.12:583][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.38.12:583][946]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-14.38.12:583][946]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.38.12:585][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.38.12:588][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-14.38.12:596][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.38.12:679][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.38.12:682][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.13-14.38.12:683][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.13-14.38.12:693][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.13-14.38.12:718][947]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.10.13-14.38.29:641][612]LogEditorClassViewer: Warning: Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-14.38.29:641][612]LogEditorClassViewer: Warning: Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-14.38.29:641][612]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-14.38.29:642][612]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-14.38.29:642][612]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.13-14.40.51:959][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-14.40.51:968][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-14.40.51:968][136]PIE: New page: PIE session: MMLevel (13 Oct 2023, 16:40:51)
+[2023.10.13-14.40.51:993][136]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.40.51:994][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2023.10.13-14.40.51:994][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001130s)
+[2023.10.13-14.40.51:994][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.40.51:994][136]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-14.40.51:995][136]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2023.10.13-14.40.52:081][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.13-14.40.52:083][136]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.40.52:083][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.40.52:083][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.40.52:084][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.40.52:084][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.40.52:084][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.40.52:086][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.40.52:103][136]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-14.40.52:103][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.40.52:103][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.40.52:103][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.40.52:103][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.10.13-14.40.52:103][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.10.13-14.40.52:105][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.10.13-14.40.52:105][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.10.13-14.40.52:105][136]LogInit: FAudioDevice initialized.
+[2023.10.13-14.40.52:105][136]LogAudio: Display: Audio Device (ID: 23) registered with world 'MMLevel'.
+[2023.10.13-14.40.52:107][136]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-14.40.52:108][136]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-15.40.52
+[2023.10.13-14.40.52:108][136]LogWorld: Bringing up level for play took: 0.000365
+[2023.10.13-14.40.52:110][136]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.10.13-14.40.52:112][136]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-14.40.52:112][136]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.40.52:112][136]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-14.40.52:114][136]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-14.40.52:114][136]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-14.40.52:115][136]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.40.52:115][136]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.40.52:115][136]PIE: Server logged in
+[2023.10.13-14.40.52:116][136]PIE: Play in editor total start time 0.148 seconds.
+[2023.10.13-14.40.53:321][280]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.40.53:321][280]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.40.53:321][280]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.40.53:322][280]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.40.53:322][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.40.53:426][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.40.53:429][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.13-14.40.53:434][280]LogAudio: Display: Audio Device (ID: 23) registered with world 'IntroCutscene'.
+[2023.10.13-14.40.53:434][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.40.53:435][280]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-14.40.53:435][280]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.10.13-14.40.53:435][280]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-14.40.53:436][280]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-15.40.53
+[2023.10.13-14.40.53:436][280]LogWorld: Bringing up level for play took: 0.001157
+[2023.10.13-14.40.53:436][280]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-14.40.53:438][280]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-14.40.53:438][280]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.40.53:438][280]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-14.40.53:439][280]LogLoad: Took 0.118232 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-14.40.54:094][359]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.40.54:094][359]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.40.54:094][359]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-14.40.54:095][359]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.40.54:095][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.40.54:214][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.40.54:217][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-14.40.54:258][359]LogAudio: Display: Audio Device (ID: 23) registered with world 'WrexhamTut'.
+[2023.10.13-14.40.54:258][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.40.54:259][359]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-14.40.54:259][359]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.10.13-14.40.54:259][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.40.54:330][359]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-15.40.54
+[2023.10.13-14.40.54:331][359]LogWorld: Bringing up level for play took: 0.072423
+[2023.10.13-14.40.54:337][359]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.40.54:337][359]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.40.54:337][359]LogLoad: Took 0.242304 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-14.40.59:589][980]LogNet: Browse: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.10.13-14.40.59:589][980]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.10.13-14.40.59:589][980]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-14.40.59:589][980]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.40.59:591][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.40.59:696][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.40.59:702][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.13-14.41.00:108][980]LogAudio: Display: Audio Device (ID: 23) registered with world 'EmeraldTrailSub1'.
+[2023.10.13-14.41.00:108][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.41.00:108][980]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.10.13-14.41.00:109][980]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2023.10.13-14.41.00:109][980]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.41.01:049][980]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.10.13-15.41.01
+[2023.10.13-14.41.01:062][980]LogWorld: Bringing up level for play took: 0.952364
+[2023.10.13-14.41.01:097][980]LogLoad: Took 1.508842 seconds to LoadMap(/Game/ThirdPersonBP/Maps/EmeraldTrailSub1)
+[2023.10.13-14.42.11:912][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.42.11:912][391]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.10.13-14.42.11:915][391]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.42.11:927][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.42.11:932][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-14.42.11:945][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.42.12:031][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.42.12:044][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.13-14.42.12:046][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.13-14.42.12:079][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.10.13-14.42.12:109][392]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.10.13-14.42.59:986][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-14.43.00:122][142]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-14.43.00:122][142]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter4E9DCADC4299BD997529B385B74B0A80.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-14.43.00:132][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 4.37 sec)
+[2023.10.13-14.43.00:141][142]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-14.43.00:141][142]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-14.43.00:497][174]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.43.00:679][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.13-14.43.02:608][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-14.43.02:616][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-14.43.02:616][353]PIE: New page: PIE session: MMLevel (13 Oct 2023, 16:43:02)
+[2023.10.13-14.43.02:642][353]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.43.02:643][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2023.10.13-14.43.02:643][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.001289s)
+[2023.10.13-14.43.02:644][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.43.02:644][353]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-14.43.02:644][353]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2023.10.13-14.43.02:731][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-14.43.02:738][353]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-14.43.02:738][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-14.43.02:738][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-14.43.02:738][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-14.43.02:738][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-14.43.02:738][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-14.43.02:740][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-14.43.02:756][353]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-14.43.02:757][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-14.43.02:757][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-14.43.02:757][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-14.43.02:757][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.10.13-14.43.02:757][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.10.13-14.43.02:759][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.10.13-14.43.02:759][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.10.13-14.43.02:759][353]LogInit: FAudioDevice initialized.
+[2023.10.13-14.43.02:759][353]LogAudio: Display: Audio Device (ID: 24) registered with world 'MMLevel'.
+[2023.10.13-14.43.02:761][353]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-14.43.02:761][353]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-15.43.02
+[2023.10.13-14.43.02:761][353]LogWorld: Bringing up level for play took: 0.000349
+[2023.10.13-14.43.02:763][353]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.10.13-14.43.02:765][353]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-14.43.02:765][353]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.43.02:765][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-14.43.02:767][353]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-14.43.02:768][353]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-14.43.02:769][353]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.43.02:769][353]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.43.02:769][353]PIE: Server logged in
+[2023.10.13-14.43.02:769][353]PIE: Play in editor total start time 0.154 seconds.
+[2023.10.13-14.43.04:084][509]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.43.04:084][509]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-14.43.04:084][509]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-14.43.04:085][509]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.43.04:085][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.43.04:203][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.43.04:206][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.10.13-14.43.04:212][509]LogAudio: Display: Audio Device (ID: 24) registered with world 'IntroCutscene'.
+[2023.10.13-14.43.04:212][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.43.04:212][509]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-14.43.04:212][509]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2023.10.13-14.43.04:212][509]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-14.43.04:213][509]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-15.43.04
+[2023.10.13-14.43.04:214][509]LogWorld: Bringing up level for play took: 0.001125
+[2023.10.13-14.43.04:214][509]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-14.43.04:215][509]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-14.43.04:215][509]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-14.43.04:215][509]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-14.43.04:217][509]LogLoad: Took 0.131571 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-14.43.04:880][589]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.43.04:880][589]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-14.43.04:880][589]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-14.43.04:880][589]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.43.04:880][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.43.04:993][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.43.04:996][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.13-14.43.05:038][589]LogAudio: Display: Audio Device (ID: 24) registered with world 'WrexhamTut'.
+[2023.10.13-14.43.05:038][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.43.05:038][589]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-14.43.05:039][589]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2023.10.13-14.43.05:039][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.43.05:110][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-15.43.05
+[2023.10.13-14.43.05:112][589]LogWorld: Bringing up level for play took: 0.073339
+[2023.10.13-14.43.05:118][589]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-14.43.05:118][589]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-14.43.05:118][589]LogLoad: Took 0.238637 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-14.43.11:656][367]LogNet: Browse: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.10.13-14.43.11:656][367]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/EmeraldTrailSub1
+[2023.10.13-14.43.11:656][367]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-14.43.11:657][367]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.43.11:658][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.43.11:775][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-14.43.11:782][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.13-14.43.12:170][367]LogAudio: Display: Audio Device (ID: 24) registered with world 'EmeraldTrailSub1'.
+[2023.10.13-14.43.12:171][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-14.43.12:171][367]LogAIModule: Creating AISystem for world EmeraldTrailSub1
+[2023.10.13-14.43.12:172][367]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2023.10.13-14.43.12:172][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-14.43.13:139][367]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1.EmeraldTrailSub1 up for play (max tick rate 0) at 2023.10.13-15.43.13
+[2023.10.13-14.43.13:146][367]LogWorld: Bringing up level for play took: 0.973836
+[2023.10.13-14.43.13:171][367]LogLoad: Took 1.515757 seconds to LoadMap(/Game/ThirdPersonBP/Maps/EmeraldTrailSub1)
+[2023.10.13-14.43.41:353][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.43.41:353][705]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_EmeraldTrailSub1
+[2023.10.13-14.43.41:355][705]LogWorld: UWorld::CleanupWorld for EmeraldTrailSub1, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-14.43.41:367][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.43.41:373][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-14.43.41:389][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-14.43.41:487][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-14.43.41:497][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.13-14.43.41:499][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.13-14.43.41:534][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.10.13-14.43.41:564][706]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.10.13-14.44.47:488][ 19]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-14.44.47:673][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.10.13-14.47.27:577][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-14.47.27:584][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MMLevel' took 0.095
+[2023.10.13-14.47.27:584][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Inputs/Shoot] ([1] browsable assets)...
+[2023.10.13-14.47.27:584][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Inputs/Shoot]
+[2023.10.13-14.47.27:585][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/Shoot_Auto6
+[2023.10.13-14.47.27:585][512]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Shoot_Auto6888D403F42F8927B233D9C86519E9444.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Inputs/Shoot_Auto6.uasset'
+[2023.10.13-14.47.27:586][512]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.10.13-15.07.39:980][150]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.076 and deleted 0 files with total size 0 MiB. Scanned 1247 files in 1244 folders with total size 22 MiB.
+[2023.10.13-16.07.40:967][953]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.061 and deleted 0 files with total size 0 MiB. Scanned 1247 files in 1244 folders with total size 22 MiB.
+[2023.10.13-16.35.24:794][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.35.24:943][425]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-16.35.24:944][425]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter91069C304DB0A5FB7DAFD69BED3CA21D.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-16.35.24:955][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 4.53 sec)
+[2023.10.13-16.35.25:075][425]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-16.35.25:075][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-16.35.26:261][546]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-16.35.26:698][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.10.13-16.35.28:948][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-16.35.28:959][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-16.35.28:959][746]PIE: New page: PIE session: MMLevel (13 Oct 2023, 18:35:28)
+[2023.10.13-16.35.28:982][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-16.35.28:985][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002053s)
+[2023.10.13-16.35.28:985][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MMLevel.MMLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel (0.002123s)
+[2023.10.13-16.35.28:985][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-16.35.28:985][746]LogAIModule: Creating AISystem for world MMLevel
+[2023.10.13-16.35.28:986][746]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2023.10.13-16.35.29:076][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.13-16.35.29:083][746]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-16.35.29:083][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-16.35.29:083][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-16.35.29:083][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-16.35.29:083][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-16.35.29:083][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-16.35.29:085][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-16.35.29:103][746]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-16.35.29:104][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-16.35.29:104][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-16.35.29:104][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-16.35.29:106][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.10.13-16.35.29:106][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.10.13-16.35.29:107][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.10.13-16.35.29:107][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.10.13-16.35.29:107][746]LogInit: FAudioDevice initialized.
+[2023.10.13-16.35.29:107][746]LogAudio: Display: Audio Device (ID: 25) registered with world 'MMLevel'.
+[2023.10.13-16.35.29:113][746]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.10.13-16.35.29:114][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel.MMLevel up for play (max tick rate 0) at 2023.10.13-17.35.29
+[2023.10.13-16.35.29:114][746]LogWorld: Bringing up level for play took: 0.000633
+[2023.10.13-16.35.29:116][746]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.10.13-16.35.29:120][746]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (StartGame)
+[2023.10.13-16.35.29:120][746]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-16.35.29:120][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.13-16.35.29:122][746]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Settings)
+[2023.10.13-16.35.29:123][746]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (QuitGame)
+[2023.10.13-16.35.29:124][746]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-16.35.29:124][746]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-16.35.29:124][746]PIE: Server logged in
+[2023.10.13-16.35.29:124][746]PIE: Play in editor total start time 0.166 seconds.
+[2023.10.13-16.35.30:318][887]LogNet: Browse: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-16.35.30:318][887]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/IntroCutscene
+[2023.10.13-16.35.30:318][887]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MMLevel
+[2023.10.13-16.35.30:319][887]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.35.30:319][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.35.30:426][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-16.35.30:429][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.13-16.35.30:435][887]LogAudio: Display: Audio Device (ID: 25) registered with world 'IntroCutscene'.
+[2023.10.13-16.35.30:435][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-16.35.30:436][887]LogAIModule: Creating AISystem for world IntroCutscene
+[2023.10.13-16.35.30:436][887]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2023.10.13-16.35.30:436][887]LogLoad: Game class is 'CutsceneGameMode_C'
+[2023.10.13-16.35.30:437][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene.IntroCutscene up for play (max tick rate 0) at 2023.10.13-17.35.30
+[2023.10.13-16.35.30:437][887]LogWorld: Bringing up level for play took: 0.001309
+[2023.10.13-16.35.30:437][887]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.13-16.35.30:439][887]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (Start)
+[2023.10.13-16.35.30:439][887]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.13-16.35.30:439][887]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.13-16.35.30:441][887]LogLoad: Took 0.122642 seconds to LoadMap(/Game/ThirdPersonBP/Maps/IntroCutscene)
+[2023.10.13-16.35.31:481][ 12]LogNet: Browse: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-16.35.31:481][ 12]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/WrexhamTut
+[2023.10.13-16.35.31:481][ 12]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_IntroCutscene
+[2023.10.13-16.35.31:482][ 12]LogWorld: UWorld::CleanupWorld for IntroCutscene, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.35.31:482][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.35.31:607][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-16.35.31:609][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.10.13-16.35.31:654][ 12]LogAudio: Display: Audio Device (ID: 25) registered with world 'WrexhamTut'.
+[2023.10.13-16.35.31:654][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-16.35.31:654][ 12]LogAIModule: Creating AISystem for world WrexhamTut
+[2023.10.13-16.35.31:655][ 12]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2023.10.13-16.35.31:655][ 12]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-16.35.31:729][ 12]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut.WrexhamTut up for play (max tick rate 0) at 2023.10.13-17.35.31
+[2023.10.13-16.35.31:731][ 12]LogWorld: Bringing up level for play took: 0.076188
+[2023.10.13-16.35.31:737][ 12]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.13-16.35.31:737][ 12]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.13-16.35.31:737][ 12]LogLoad: Took 0.255711 seconds to LoadMap(/Game/ThirdPersonBP/Maps/WrexhamTut)
+[2023.10.13-16.35.46:473][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-16.35.46:473][766]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_WrexhamTut
+[2023.10.13-16.35.46:473][766]LogWorld: UWorld::CleanupWorld for WrexhamTut, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.35.46:474][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.35.46:479][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-16.35.46:487][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.35.46:573][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-16.35.46:573][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.10.13-16.35.46:574][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.10.13-16.35.46:578][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-16.35.46:585][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.10.13-16.35.46:609][767]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.10.13-16.40.08:567][196]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.10.13-16.40.08:574][196]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.10.13-16.40.08:582][197]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.10.13-16.40.16:651][162]LogContentBrowser: Attempting asset rename: NewInputAction -> RotateLeft
+[2023.10.13-16.40.16:652][162]LogContentBrowser: End creating deferred item NewInputAction
+[2023.10.13-16.40.29:437][498]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.10.13-16.40.29:443][498]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.10.13-16.40.29:450][499]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.10.13-16.40.33:000][924]LogContentBrowser: Attempting asset rename: NewInputAction -> RotateRight
+[2023.10.13-16.40.33:001][924]LogContentBrowser: End creating deferred item NewInputAction
+[2023.10.13-16.45.16:338][191]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft.RotateLeft
+[2023.10.13-16.45.18:184][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.18:241][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateLeft.uasset" SILENT=true
+[2023.10.13-16.45.18:243][389]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft
+[2023.10.13-16.45.18:243][389]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/RotateLeft19A816444DA8AAF4428B978AA9837D17.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateLeft.uasset'
+[2023.10.13-16.45.18:253][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.60 sec)
+[2023.10.13-16.45.18:263][389]AssetCheck: New page: Asset Save: RotateLeft
+[2023.10.13-16.45.18:263][389]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft.RotateLeft
+[2023.10.13-16.45.21:249][713]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateRight.RotateRight
+[2023.10.13-16.45.22:171][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.22:226][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/RotateRight" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateRight.uasset" SILENT=true
+[2023.10.13-16.45.22:226][793]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/RotateRight
+[2023.10.13-16.45.22:226][793]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/RotateRight20670EED4A5AC068A1B2E4AB6041C129.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateRight.uasset'
+[2023.10.13-16.45.22:237][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.66 sec)
+[2023.10.13-16.45.22:251][793]AssetCheck: New page: Asset Save: RotateRight
+[2023.10.13-16.45.22:251][793]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateRight.RotateRight
+[2023.10.13-16.45.26:698][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.26:763][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Shoot" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset" SILENT=true
+[2023.10.13-16.45.26:764][282]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot
+[2023.10.13-16.45.26:764][282]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ShootFFCE6DB1437B34FDBB21E5833A2B6920.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset'
+[2023.10.13-16.45.26:775][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.74 sec)
+[2023.10.13-16.45.26:801][282]AssetCheck: New page: Asset Save: Shoot
+[2023.10.13-16.45.26:801][282]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-16.45.26:803][282]AssetCheck: Error: [AssetLog] C:\Users\George\Documents\GitHub\OOW-Team\Content\ThirdPersonBP\Blueprints\Inputs\Shoot.uasset: There cannot be a null Input Modifier on an Input Action!
+[2023.10.13-16.45.26:803][282]AssetCheck: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot contains invalid data.
+[2023.10.13-16.45.26:803][282]AssetCheck: Data validation FAILED.
+[2023.10.13-16.45.26:803][282]AssetCheck: Files Checked: 1, Passed: 0, Failed: 1, Skipped: 0, Unable to validate: 0
+[2023.10.13-16.45.29:311][526]LogSlate: Window 'Message Log' being destroyed
+[2023.10.13-16.45.29:318][526]LogSlate: Window 'Message Log' being destroyed
+[2023.10.13-16.45.52:132][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.52:192][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Shoot" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset" SILENT=true
+[2023.10.13-16.45.52:193][ 55]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot
+[2023.10.13-16.45.52:194][ 55]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Shoot0C594E494E5C5F70E0707B8E195CED9B.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset'
+[2023.10.13-16.45.52:204][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.81 sec)
+[2023.10.13-16.45.52:212][ 55]AssetCheck: New page: Asset Save: Shoot
+[2023.10.13-16.45.52:212][ 55]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-16.45.53:733][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.53:795][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Shoot" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset" SILENT=true
+[2023.10.13-16.45.53:796][230]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot
+[2023.10.13-16.45.53:797][230]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ShootC1FF9962458C83159A0F6CB9B7AAC40D.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset'
+[2023.10.13-16.45.53:807][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.89 sec)
+[2023.10.13-16.45.53:815][230]AssetCheck: New page: Asset Save: Shoot
+[2023.10.13-16.45.53:815][230]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-16.45.57:095][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.45.57:163][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Shoot" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset" SILENT=true
+[2023.10.13-16.45.57:164][572]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Shoot
+[2023.10.13-16.45.57:165][572]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Shoot4520354D4EE506DAF7ABFA8E0FD4185A.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Shoot.uasset'
+[2023.10.13-16.45.57:176][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 4.97 sec)
+[2023.10.13-16.45.57:185][572]AssetCheck: New page: Asset Save: Shoot
+[2023.10.13-16.45.57:185][572]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/Shoot.Shoot
+[2023.10.13-16.45.58:845][770]LogSlate: Window 'Message Log' being destroyed
+[2023.10.13-16.45.58:853][770]LogSlate: Window 'Message Log' being destroyed
+[2023.10.13-16.46.06:578][269]LogEditorViewport: Clicking Background
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: ================================================
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Total job queries 306, among them cache hits 83 (27.12%)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 122 distinct outputs (54.71%)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: RAM used: 0.53 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Average time worker was idle: 0.45 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.48 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.34 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.41
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.73 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Average processing rate: 5.13 jobs/sec
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Total thread time: 6.56 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Total thread preprocess time: 0.58 s
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Percentage time preprocessing: 8.77%
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.68 sec)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.69 sec, max 0.74 sec, min 0.64 sec)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.57 sec, max 0.60 sec, min 0.51 sec)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.13-16.47.04:133][512]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.02% of total time (compiled    3 times, average 0.57 sec, max 0.60 sec, min 0.51 sec)
+[2023.10.13-16.47.04:134][512]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.53% of total time (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.68 sec)
+[2023.10.13-16.47.04:134][512]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.09% of total time (compiled    2 times, average 0.69 sec, max 0.74 sec, min 0.64 sec)
+[2023.10.13-16.47.04:134][512]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.96% of total time (compiled    3 times, average 0.35 sec, max 0.39 sec, min 0.31 sec)
+[2023.10.13-16.47.04:134][512]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 9.94% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2023.10.13-16.47.04:134][512]LogShaderCompilers: Display: ================================================
+[2023.10.13-16.47.13:148][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.13-16.47.13:153][388]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/TestLevel.TestLevel
+[2023.10.13-16.47.13:157][388]Cmd: MAP LOAD FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.13-16.47.13:159][388]LightingResults: New page: Lighting Build
+[2023.10.13-16.47.13:216][388]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.10.13-16.47.13:223][388]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.47.13:228][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.47.13:229][388]MapCheck: New page: Map Check
+[2023.10.13-16.47.13:229][388]LightingResults: New page: Lighting Build
+[2023.10.13-16.47.13:378][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-16.47.13:406][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.13-16.47.13:411][388]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.47.13:411][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.47.13:497][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-16.47.13:584][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.13-16.47.13:589][388]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.10.13-16.47.13:589][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-16.47.13:589][388]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-16.47.13:841][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.13-16.47.13:937][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.13-16.47.13:953][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.13-16.47.13:955][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.984ms to complete.
+[2023.10.13-16.47.13:956][388]LogFileHelpers: Loading map 'TestLevel' took 0.801
+[2023.10.13-16.47.30:718][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.47.30:782][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/TestLevel" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.13-16.47.30:870][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-16.47.30:880][295]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/TestLevel
+[2023.10.13-16.47.30:880][295]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/TestLevelCE10C57E458B2B275AA3F9991A4579F6.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Maps/TestLevel.umap'
+[2023.10.13-16.47.30:901][295]LogFileHelpers: Saving map 'TestLevel' took 0.119
+[2023.10.13-16.47.30:911][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 5.16 sec)
+[2023.10.13-16.47.30:919][295]AssetCheck: New page: Asset Save: TestLevel
+[2023.10.13-16.47.30:919][295]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/TestLevel.TestLevel
+[2023.10.13-16.47.31:531][358]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-16.47.31:548][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-16.47.31:548][358]PIE: New page: PIE session: TestLevel (13 Oct 2023, 18:47:31)
+[2023.10.13-16.47.31:549][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-16.47.31:551][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002129s)
+[2023.10.13-16.47.31:551][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.002202s)
+[2023.10.13-16.47.31:551][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-16.47.31:551][358]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-16.47.31:552][358]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2023.10.13-16.47.31:636][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.13-16.47.31:638][358]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-16.47.31:638][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-16.47.31:638][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-16.47.31:638][358]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-16.47.31:638][358]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-16.47.31:638][358]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-16.47.31:640][358]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-16.47.31:656][358]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-16.47.31:656][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-16.47.31:656][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-16.47.31:656][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-16.47.31:657][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.10.13-16.47.31:657][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.10.13-16.47.31:658][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.10.13-16.47.31:658][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.10.13-16.47.31:658][358]LogInit: FAudioDevice initialized.
+[2023.10.13-16.47.31:658][358]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestLevel'.
+[2023.10.13-16.47.31:662][358]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-16.47.31:662][358]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-17.47.31
+[2023.10.13-16.47.31:662][358]LogWorld: Bringing up level for play took: 0.000579
+[2023.10.13-16.47.31:665][358]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.10.13-16.47.31:672][358]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-16.47.31:672][358]PIE: Server logged in
+[2023.10.13-16.47.31:673][358]PIE: Play in editor total start time 0.125 seconds.
+[2023.10.13-16.48.02:483][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-16.48.02:483][ 38]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-16.48.02:483][ 38]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.48.02:483][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.48.02:486][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-16.48.02:494][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.48.02:576][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-16.48.02:576][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.10.13-16.48.02:578][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.10.13-16.48.02:584][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.13-16.48.02:616][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_45
