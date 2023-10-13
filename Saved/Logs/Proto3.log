@@ -4855,3 +4855,398 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.13-16.48.02:578][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
 [2023.10.13-16.48.02:584][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2023.10.13-16.48.02:616][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.10.13-16.50.15:059][346]LogTexture: Display: Building textures: /Game/ThirdPersonBP/Blueprints/UI/KeyboardwithArrows.KeyboardwithArrows (TFO_AutoDXT, 1200x800 x1x1x1) (Required Memory Estimate: 97.816406 MB), EncodeSpeed: Fast
+[2023.10.13-16.50.38:006][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.50.38:131][420]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-16.50.38:132][420]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacterC137528D4EFC1E6EBB23E78D0C2C8DBC.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-16.50.38:143][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 5.30 sec)
+[2023.10.13-16.50.38:152][420]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-16.50.38:152][420]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-16.51.22:037][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.51.22:165][857]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-16.51.22:166][857]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacterDC8433A443CE9B9DC9C614B0B5EF7F4F.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-16.51.22:181][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 5.44 sec)
+[2023.10.13-16.51.22:191][857]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-16.51.22:191][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-16.51.24:006][969]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-16.51.24:249][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.13-16.52.28:592][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.52.28:654][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/Movement" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Movement.uasset" SILENT=true
+[2023.10.13-16.52.28:655][562]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/Movement
+[2023.10.13-16.52.28:655][562]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MovementFA87C4BD499D05AD4902229080927162.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/Movement.uasset'
+[2023.10.13-16.52.28:666][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.52 sec)
+[2023.10.13-16.52.28:674][562]AssetCheck: New page: Asset Save: Movement
+[2023.10.13-16.52.28:674][562]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPersonBP/Blueprints/Inputs/Movement.Movement
+[2023.10.13-16.52.36:653][332]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.52.36:653][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.52.38:153][408]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.13-16.52.38:153][408]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-16.52.38:153][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-16.53.49:358][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-16.53.49:494][826]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-16.53.49:494][826]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter155FF96F4FECA4A94ED435B37E1DD117.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-16.53.49:506][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 5.67 sec)
+[2023.10.13-16.53.49:516][826]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-16.53.49:516][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-16.58.36:579][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.10.13-16.58.36:581][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/TestLevel' took 0.094
+[2023.10.13-16.58.36:582][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.10.13-16.58.36:611][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.10.13-16.58.36:611][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter]
+[2023.10.13-16.58.36:668][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto7
+[2023.10.13-16.58.36:669][983]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter_Auto7956E19EA42C884B178E8198DFD932119.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto7.uasset'
+[2023.10.13-16.58.36:670][983]LogFileHelpers: Auto-saving content packages took 0.089
+[2023.10.13-17.01.15:151][516]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.10.13-17.01.15:151][516]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.10.13-17.01.20:531][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.20:598][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset" SILENT=true
+[2023.10.13-17.01.20:599][997]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown
+[2023.10.13-17.01.20:600][997]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveDown13E4474843E02882E721028F4A2A6DC1.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset'
+[2023.10.13-17.01.20:614][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.75 sec)
+[2023.10.13-17.01.20:622][997]AssetCheck: New page: Asset Save: MoveDown
+[2023.10.13-17.01.20:622][997]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown.MoveDown
+[2023.10.13-17.01.36:249][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.36:314][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveLeft.uasset" SILENT=true
+[2023.10.13-17.01.36:315][561]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft
+[2023.10.13-17.01.36:315][561]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveLeft5BD7F5F54EC04E1507AE18868947EFDA.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveLeft.uasset'
+[2023.10.13-17.01.36:330][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.83 sec)
+[2023.10.13-17.01.36:356][561]AssetCheck: New page: Asset Save: MoveLeft
+[2023.10.13-17.01.36:356][561]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveLeft.MoveLeft
+[2023.10.13-17.01.37:925][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.37:985][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveRight" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset" SILENT=true
+[2023.10.13-17.01.37:986][722]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight
+[2023.10.13-17.01.37:987][722]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveRight57787B074C6BFBBA02EB02A456D67738.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveRight.uasset'
+[2023.10.13-17.01.37:999][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.90 sec)
+[2023.10.13-17.01.38:007][722]AssetCheck: New page: Asset Save: MoveRight
+[2023.10.13-17.01.38:007][722]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveRight.MoveRight
+[2023.10.13-17.01.39:327][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.39:389][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveUp" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset" SILENT=true
+[2023.10.13-17.01.39:390][860]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp
+[2023.10.13-17.01.39:390][860]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveUp1F81D7F24543E5F15E45EFBEC8EDE1EF.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveUp.uasset'
+[2023.10.13-17.01.39:401][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.98 sec)
+[2023.10.13-17.01.39:531][860]AssetCheck: New page: Asset Save: MoveUp
+[2023.10.13-17.01.39:531][860]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveUp.MoveUp
+[2023.10.13-17.01.40:511][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.40:571][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/MoveDown" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset" SILENT=true
+[2023.10.13-17.01.40:572][964]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown
+[2023.10.13-17.01.40:572][964]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/MoveDown7AA2F87B4F1C4FD54E953699FCDF444F.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/MoveDown.uasset'
+[2023.10.13-17.01.40:584][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 6.05 sec)
+[2023.10.13-17.01.40:593][964]AssetCheck: New page: Asset Save: MoveDown
+[2023.10.13-17.01.40:593][964]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/MoveDown.MoveDown
+[2023.10.13-17.01.45:537][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.45:591][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateLeft.uasset" SILENT=true
+[2023.10.13-17.01.45:591][439]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft
+[2023.10.13-17.01.45:592][439]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/RotateLeft23F86AC5453AEA4713527E8312BA43E5.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateLeft.uasset'
+[2023.10.13-17.01.45:604][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 6.12 sec)
+[2023.10.13-17.01.45:612][439]AssetCheck: New page: Asset Save: RotateLeft
+[2023.10.13-17.01.45:612][439]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateLeft.RotateLeft
+[2023.10.13-17.01.49:476][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.01.49:529][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Inputs/RotateRight" FILE="C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateRight.uasset" SILENT=true
+[2023.10.13-17.01.49:530][752]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Inputs/RotateRight
+[2023.10.13-17.01.49:530][752]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/RotateRightF812E67B4659BAF520B549B37B3A284F.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Inputs/RotateRight.uasset'
+[2023.10.13-17.01.49:546][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.19 sec)
+[2023.10.13-17.01.49:554][752]AssetCheck: New page: Asset Save: RotateRight
+[2023.10.13-17.01.49:554][752]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPersonBP/Blueprints/Inputs/RotateRight.RotateRight
+[2023.10.13-17.01.57:873][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.13-17.01.57:873][323]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.01.57:873][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.02.04:198][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-17.02.04:201][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.02.08:041][149]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.02.08:041][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.02.09:106][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.13-17.02.09:106][227]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.02.09:106][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.02.10:032][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.13-17.02.10:032][290]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.02.10:032][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.05.03:738][ 78]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.05.03:925][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.10.13-17.07.39:991][247]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.085 and deleted 0 files with total size 0 MiB. Scanned 1253 files in 1250 folders with total size 22 MiB.
+[2023.10.13-17.08.00:219][598]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.08.00:376][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.13-17.08.09:973][237]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.08.10:125][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.10.13-17.08.37:325][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.10.13-17.08.37:329][591]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/TestLevel' took 0.084
+[2023.10.13-17.08.37:329][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.10.13-17.08.37:335][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.10.13-17.08.37:335][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter]
+[2023.10.13-17.08.37:396][591]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto8
+[2023.10.13-17.08.37:396][591]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter_Auto83B48B64A48F2C57BC829DC8D7430F3A6.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter_Auto8.uasset'
+[2023.10.13-17.08.37:396][591]LogFileHelpers: Auto-saving content packages took 0.068
+[2023.10.13-17.09.51:354][375]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.09.51:506][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.13-17.10.30:425][818]LogSlate: Took 0.005780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.13-17.14.40:688][526]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.14.40:867][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.10.13-17.14.43:306][741]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-17.14.43:314][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-17.14.43:314][741]PIE: New page: PIE session: TestLevel (13 Oct 2023, 19:14:43)
+[2023.10.13-17.14.43:315][741]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.14.43:316][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2023.10.13-17.14.43:316][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.001832s)
+[2023.10.13-17.14.43:316][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.14.43:317][741]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-17.14.43:317][741]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.10.13-17.14.43:381][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.10.13-17.14.43:386][741]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-17.14.43:386][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-17.14.43:386][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-17.14.43:386][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-17.14.43:386][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-17.14.43:386][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-17.14.43:388][741]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-17.14.43:404][741]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-17.14.43:404][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-17.14.43:404][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-17.14.43:404][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-17.14.43:405][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.10.13-17.14.43:405][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.10.13-17.14.43:407][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.10.13-17.14.43:407][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.10.13-17.14.43:407][741]LogInit: FAudioDevice initialized.
+[2023.10.13-17.14.43:407][741]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestLevel'.
+[2023.10.13-17.14.43:410][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-17.14.43:410][741]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-18.14.43
+[2023.10.13-17.14.43:410][741]LogWorld: Bringing up level for play took: 0.000439
+[2023.10.13-17.14.43:412][741]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.10.13-17.14.43:418][741]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-17.14.43:418][741]PIE: Server logged in
+[2023.10.13-17.14.43:419][741]PIE: Play in editor total start time 0.104 seconds.
+[2023.10.13-17.15.55:283][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.15.55:283][350]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.15.55:283][350]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.15.55:283][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.15.55:288][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-17.15.55:295][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.15.55:350][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-17.15.55:350][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.10.13-17.15.55:352][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.10.13-17.15.55:355][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.15.55:358][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.13-17.15.55:391][351]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.10.13-17.16.05:809][140]LogEditorTransaction: Undo Move Node
+[2023.10.13-17.16.07:067][185]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.13-17.16.20:540][166]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.16.20:709][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.10.13-17.16.22:789][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-17.16.22:797][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-17.16.22:798][316]PIE: New page: PIE session: TestLevel (13 Oct 2023, 19:16:22)
+[2023.10.13-17.16.22:833][316]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.16.22:835][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2023.10.13-17.16.22:835][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.002006s)
+[2023.10.13-17.16.22:835][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.16.22:835][316]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-17.16.22:835][316]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.10.13-17.16.22:904][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.13-17.16.22:910][316]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-17.16.22:910][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-17.16.22:910][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-17.16.22:910][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-17.16.22:910][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-17.16.22:910][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-17.16.22:912][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-17.16.22:927][316]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-17.16.22:928][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-17.16.22:928][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-17.16.22:928][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-17.16.22:928][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.10.13-17.16.22:928][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.10.13-17.16.22:930][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.10.13-17.16.22:930][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.10.13-17.16.22:930][316]LogInit: FAudioDevice initialized.
+[2023.10.13-17.16.22:930][316]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestLevel'.
+[2023.10.13-17.16.22:932][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-17.16.22:933][316]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-18.16.22
+[2023.10.13-17.16.22:933][316]LogWorld: Bringing up level for play took: 0.000475
+[2023.10.13-17.16.22:935][316]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.10.13-17.16.22:941][316]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-17.16.22:941][316]PIE: Server logged in
+[2023.10.13-17.16.22:942][316]PIE: Play in editor total start time 0.145 seconds.
+[2023.10.13-17.16.38:673][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.16.38:673][198]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.16.38:673][198]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.16.38:673][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.16.38:677][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-17.16.38:684][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.16.38:740][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-17.16.38:741][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.13-17.16.38:743][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.13-17.16.38:745][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.16.38:748][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.13-17.16.38:781][199]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.10.13-17.16.51:237][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-17.16.51:245][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-17.16.51:245][504]PIE: New page: PIE session: TestLevel (13 Oct 2023, 19:16:51)
+[2023.10.13-17.16.51:272][504]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.16.51:275][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001908s)
+[2023.10.13-17.16.51:275][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.003101s)
+[2023.10.13-17.16.51:275][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.16.51:276][504]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-17.16.51:276][504]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2023.10.13-17.16.51:339][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.13-17.16.51:341][504]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-17.16.51:341][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-17.16.51:341][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-17.16.51:342][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-17.16.51:342][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-17.16.51:342][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-17.16.51:343][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-17.16.51:360][504]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-17.16.51:360][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-17.16.51:360][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-17.16.51:360][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-17.16.51:360][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.10.13-17.16.51:360][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.10.13-17.16.51:362][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.10.13-17.16.51:362][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.10.13-17.16.51:363][504]LogInit: FAudioDevice initialized.
+[2023.10.13-17.16.51:363][504]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestLevel'.
+[2023.10.13-17.16.51:365][504]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-17.16.51:366][504]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-18.16.51
+[2023.10.13-17.16.51:366][504]LogWorld: Bringing up level for play took: 0.000426
+[2023.10.13-17.16.51:367][504]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.10.13-17.16.51:374][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-17.16.51:374][504]PIE: Server logged in
+[2023.10.13-17.16.51:374][504]PIE: Play in editor total start time 0.13 seconds.
+[2023.10.13-17.17.13:623][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.17.13:624][158]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.17.13:624][158]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.17.13:624][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.17.13:627][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-17.17.13:637][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.17.13:707][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.17.13:707][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.13-17.17.13:708][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.13-17.17.13:715][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.13-17.17.13:746][159]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.10.13-17.17.58:159][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.17.58:286][984]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter
+[2023.10.13-17.17.58:287][984]LogSavePackage: Moving 'C:/Users/George/Documents/GitHub/OOW-Team/Saved/ThirdPersonCharacter4DF7380A43F84692942DA28806693439.tmp' to 'C:/Users/George/Documents/GitHub/OOW-Team/Content/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2023.10.13-17.17.58:299][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 6.33 sec)
+[2023.10.13-17.17.58:314][984]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.13-17.17.58:314][984]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.13-17.17.58:596][  8]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.13-17.17.58:745][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.13-17.18.03:198][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-17.18.03:206][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-17.18.03:206][287]PIE: New page: PIE session: TestLevel (13 Oct 2023, 19:18:03)
+[2023.10.13-17.18.03:206][287]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.18.03:208][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
+[2023.10.13-17.18.03:208][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.001853s)
+[2023.10.13-17.18.03:208][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.18.03:209][287]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-17.18.03:209][287]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.10.13-17.18.03:267][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.13-17.18.03:274][287]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-17.18.03:274][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-17.18.03:274][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-17.18.03:274][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-17.18.03:274][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-17.18.03:274][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-17.18.03:276][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-17.18.03:291][287]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-17.18.03:292][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-17.18.03:292][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-17.18.03:292][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-17.18.03:292][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.10.13-17.18.03:292][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.10.13-17.18.03:294][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.10.13-17.18.03:294][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.10.13-17.18.03:294][287]LogInit: FAudioDevice initialized.
+[2023.10.13-17.18.03:294][287]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestLevel'.
+[2023.10.13-17.18.03:296][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-17.18.03:297][287]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-18.18.03
+[2023.10.13-17.18.03:297][287]LogWorld: Bringing up level for play took: 0.000428
+[2023.10.13-17.18.03:298][287]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.10.13-17.18.03:304][287]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-17.18.03:305][287]PIE: Server logged in
+[2023.10.13-17.18.03:305][287]PIE: Play in editor total start time 0.099 seconds.
+[2023.10.13-17.18.11:643][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.18.11:643][281]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.18.11:643][281]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.18.11:643][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.18.11:647][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-17.18.11:654][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.18.11:708][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.18.11:708][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.10.13-17.18.11:710][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.10.13-17.18.11:716][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.13-17.18.11:748][282]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.10.13-17.19.40:478][838]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.13-17.19.40:488][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-17.19.40:488][838]PIE: New page: PIE session: TestLevel (13 Oct 2023, 19:19:40)
+[2023.10.13-17.19.40:488][838]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.19.40:490][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001979s)
+[2023.10.13-17.19.40:490][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestLevel.TestLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel (0.002009s)
+[2023.10.13-17.19.40:491][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.19.40:491][838]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.13-17.19.40:491][838]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2023.10.13-17.19.40:568][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.13-17.19.40:570][838]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-17.19.40:570][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.13-17.19.40:570][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-17.19.40:571][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.13-17.19.40:571][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.13-17.19.40:571][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-17.19.40:573][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-17.19.40:591][838]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.10.13-17.19.40:591][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-17.19.40:591][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-17.19.40:591][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-17.19.40:592][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.10.13-17.19.40:592][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.10.13-17.19.40:593][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.10.13-17.19.40:593][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.10.13-17.19.40:594][838]LogInit: FAudioDevice initialized.
+[2023.10.13-17.19.40:594][838]LogAudio: Display: Audio Device (ID: 31) registered with world 'TestLevel'.
+[2023.10.13-17.19.40:596][838]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.13-17.19.40:597][838]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.13-18.19.40
+[2023.10.13-17.19.40:597][838]LogWorld: Bringing up level for play took: 0.000472
+[2023.10.13-17.19.40:599][838]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.10.13-17.19.40:605][838]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.13-17.19.40:605][838]PIE: Server logged in
+[2023.10.13-17.19.40:605][838]PIE: Play in editor total start time 0.117 seconds.
+[2023.10.13-17.19.58:343][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.19.58:343][956]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestLevel
+[2023.10.13-17.19.58:343][956]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.19.58:344][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.19.58:347][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-17.19.58:354][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.19.58:417][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-17.19.58:417][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.10.13-17.19.58:418][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.10.13-17.19.58:427][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.10.13-17.19.58:467][957]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.10.13-18.07.41:053][675]LogDerivedDataCache: C:/Users/George/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.140 and deleted 0 files with total size 0 MiB. Scanned 1253 files in 1250 folders with total size 22 MiB.
